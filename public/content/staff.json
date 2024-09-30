@@ -1,0 +1,136 @@
+{
+  "lecturers": [
+    {
+      "image": "assets/staff/justin.jpg",
+      "name": "Justin Wong",
+      "title": "iOS Lecturer",
+      "description": "Hello World! I'm a third year EECS & HUGEEE 🍎 Fanboy. I love to build iOS apps, delve into geopolitics, and get caffeinated on ☕️ in my free time. Feel free to contact me, and let's geek out together!",
+      "social": "@j_wongwiz"
+    },
+    {
+      "image": "https://res.cloudinary.com/netzero/image/upload/v1722987433/unnamed_by5why.jpg",
+      "name": "Oliver Carmont",
+      "title": "Web Lecturer",
+      "description": "Heyo! I'm Oliver, I'm a senior CS major. From Spain, share a love for travelling, and duh web dev 🖥️ Reach me at oliver@cubstart.com",
+      "social": "@oliver.cz"
+    },
+    {
+      "image": "assets/staff/kat.png",
+      "name": "Kat Cheng",
+      "title": "Web Lecturer",
+      "description": "Hiiii!! I'm Kat, a third-year majoring in EECS! When I'm not trying to catch up on sleep, I like to dance, play all the NYT Games (see if you can beat me in the Mini), and design things. I'm trying to be more outdoorsy, so if you have any hiking/scenic recs let me know!",
+      "social": "@itskatcheng"
+    },
+    {
+      "image": "assets/staff/jessica.jpg",
+      "name": "Jessica Ng",
+      "title": "Web Lead",
+      "description": "Hi, I'm Jessica, a third-year CS major! You can usually find me reading, crocheting, or going on outdoorsy adventures. I'm super excited to meet everyone :)",
+      "social": "@jessican_1212"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/sampoder/pfp/03137b40b2c1794c2fccab796960e88a2f12f5bc/public/images/Screenshot%202024-07-27%20at%209.29.02%E2%80%AFAM.png",
+      "name": "Sam Poder",
+      "title": "Web Lecturer",
+      "description": "Hey there! I'm Sam, a second-year CS / Linguistics major. I enjoying making things and going on random public transit adventures. Going to be a fun year!",
+      "social": "@sam_poder"
+    }
+  ],
+  "tas": [
+    {
+      "image": "assets/staff/kaashvi.jpg",
+      "name": "Kaashvi Agnihotri",
+      "title": "iOS TA",
+      "description": "Hi, I'm Kaashvi! I'm a 4th year CS Major, also pursuing DS and English Minors. You can find me drawing, playing video games, or overanalyzing mystery shows 💖 Looking forward to meeting everybody!",
+      "social": "@kashew_arts"
+    },
+    {
+      "image": "assets/staff/matthew.png",
+      "name": "Matthew Gerardi",
+      "title": "iOS TA",
+      "description": "Hi there! My name is Matthew and I'm a third year studying EECS. I love to play beach/indoor volleyball, pickleball, as well as electric guitar. Excited to meet you all and feel free to reach out to chat!",
+      "social": "@m.a.t.t_"
+    },
+    {
+      "image": "assets/staff/oindree.png",
+      "name": "Oindree Chatterjee",
+      "title": "Web TA",
+      "description": "Heyyy! I'm Oindree, a second-year EECS major. Aside from my love for web dev, I enjoy hiking, photography, and watching sunsets by the ocean 🌅 I'm excited to meet you all, so please reach out if you have questions or want to chat!",
+      "social": "@oindree.c"
+    },
+    {
+      "image": "assets/staff/jocelyn.png",
+      "name": "Jocelyn Yu",
+      "title": "Web TA",
+      "description": "Hi! I'm Jocelyn, a junior majoring in CS. In my free time, I enjoy reading, graphic designing, and playing the guitar. I’m excited to meet you all and please reach out if you have any questions!",
+      "social": "@jxcelynyu"
+    },
+    {
+      "image": "assets/staff/ahmed.png",
+      "name": "Ahmed Hugais",
+      "title": "Web TA",
+      "description": "Hi there! I'm Ahmed, a junior studying Computer Science from Yemen. I'm excited to embark on this journey with you as we dive into the fundamentals of web development. Outside of class, I enjoy working out, cooking, and going for walks. Feel free to reach out anytime about anything—I'd be happy to chat!",
+      "social": "@ahmed_hugais"
+    },
+    {
+      "image": "assets/staff/abhi.png",
+      "name": "Abhiram Chennupati",
+      "title": "iOS TA",
+      "description": "Hi, my name is Abhi. I'm a rising Junior majoring in CS here at Cal, but I'm originally from Georgia. I love outdoor activities, reading, and playing with my cat Sesame. Look forward to meeting you all!",
+      "social": ""
+    },
+    {
+      "image": "assets/staff/dylan.png",
+      "name": "Dylan Chhum",
+      "title": "iOS TA",
+      "description": "Hi, I'm Dylan! I am a 4th year EECS major. I love fishing and food. After every midterm or final you can find me at wingstop. Look forward to seeing everyone!",
+      "social": "@chhum_bucket"
+    },
+    {
+      "image": "assets/staff/isha.png",
+      "name": "Isha Tailor",
+      "title": "iOS TA",
+      "description": "Hi guys! I'm Isha, a second-year from the Bay Area. I like reading, trying new food and coffee places, and practicing taekwondo in my free time. Feel free to contact me with anything!",
+      "social": "@isha_tailor"
+    },
+    {
+      "image": "assets/staff/amber.jpg",
+      "name": "Amber Wang",
+      "title": "Web TA",
+      "description": "Hey y'all! I'm Amber, a second-year CS student from LA. I like playing video games and getting free food. Down to grab a smoothie or smth if you want to talk :)))",
+      "social": "@amberwang002"
+    }
+  ],
+  "archives": [
+    {
+      "image": "assets/staff/andy.jpg",
+      "name": "Andy Huang",
+      "title": "Course Lead & iOS Lecturer",
+      "social": "@andyy_huang"
+    },
+    {
+      "image": "assets/staff/madhav.jpg",
+      "name": "Madhav Varshney",
+      "title": "Web Lecturer",
+      "social": "@madhavarshney"
+    },
+    {
+      "image": "assets/staff/steffi.jpg",
+      "name": "Steffi Tan",
+      "title": "Web Lecturer",
+      "social": "@staph.e"
+    },
+    {
+      "image": "assets/staff/tyler.jpg",
+      "name": "Tyler Sameshima",
+      "title": "Logistics",
+      "social": "@tysameshima"
+    },
+    {
+      "image": "assets/staff/tony.jpg",
+      "name": "Tony Hong",
+      "title": "iOS Lecturer, Logistics",
+      "social": "@tshong"
+    }
+  ]
+}

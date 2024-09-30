@@ -1,0 +1,14 @@
+.carousel-img{
+    border-radius: 40px;
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+}
+
+.carousel {
+    margin: 25px 0;
+}
+
+.carousel .control-arrow {
+    background-color: transparent!important;
+}

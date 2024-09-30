@@ -1,0 +1,148 @@
+.desc-wrapper {
+    margin-top: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+.header h1, h2 {
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin-bottom: 0.5rem;
+    background-color: transparent;
+  }
+
+  .tabs {
+    position: relative;
+    margin: 3rem 0;
+    height: 14.75rem;
+  }
+  .tabs::before,
+  .tabs::after {
+    content: "";
+    display: table;
+  }
+  .tabs::after {
+    clear: both;
+  }
+  .tab {
+    float: left;
+  }
+  .tab-switch {
+    border-radius: 10px 10px 0 0;
+    display: none;
+  }
+  .tab-label {
+    position: relative;
+    display: block;
+    line-height: 2.75em;
+    height: 3em;
+    padding: 0 1.618em;
+    background: var(--main-color);
+    border-right: 0.125rem solid var(--main-color);
+    color: var(--accent-bg-color);
+    cursor: pointer;
+    top: 0;
+    transition: all 0.25s;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  }
+  .tab-label:hover {
+    top: -0.25rem;
+    transition: top 0.25s;
+  }
+  .tab-content {
+    position: absolute;
+    z-index: 1;
+    top: 2.75em;
+    left: 0;
+    padding: 1.618rem;
+    background: #fff;
+    color: #2c3e50;
+    border-bottom: 0.25rem solid #bdc3c7;
+    opacity: 0;
+    width: 100%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border-radius: 0 10px 10px 10px;
+  }
+  .tab-switch:checked + .tab-label {
+    background: var(--main-bg-color);
+    color: #2c3e50;
+    border-bottom: 0;
+    border-right: 0.125rem solid #fff;
+    z-index: 3;
+    clip-path: inset(-20px -20px 0px -20px);
+    top: -0.0625rem;
+  }
+  .tab-switch:checked + label + .tab-content {
+    z-index: 2;
+    opacity: 1;
+  }
+
+.table-wrapper {
+  overflow: auto;
+}
+
+.styled-table {
+  border-collapse: collapse;
+  margin: 25px auto;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  min-width: 400px;
+}
+
+.tab-content a {
+  text-decoration: none;
+  color: var(--main-color);
+  transition: ease-in 0.1s;
+  border-radius: 6px;
+  padding: 5px;
+  border:z 2px solid #49c5f79c;
+} 
+
+.tab-content td:last-child a, .tab-content td:nth-child(3) a {
+  padding: 0!important;
+  border: 0!important;
+}
+
+.tab-content a:hover {
+  border: 2px solid var(--main-color);
+  background-color: var(--accent-bg-color);
+}
+
+.tab-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px;
+  display: inline-block;
+}
+
+.styled-table thead tr {
+  background-color: var(--main-color);
+  color: var(--accent-bg-color);
+  text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+  border-bottom: 2px solid var(--main-color);
+}
+
+.styled-table tbody tr.active-row {
+  font-weight: bold;
+  color: var(--main-color);
+}
