@@ -65,11 +65,11 @@ function Navbar() {
               <li className="nav-item">
                 <Link to="/info">Course Info</Link>
               </li>
-             <li className="nav-item" style={{"marginTop":"-1px"}}>
+             {/* <li className="nav-item" style={{"marginTop":"-1px"}}>
               <a href="/#/enrollment-info"><button style={{"marginTop":"-20px", "borderRadius":"30px", "opacity":"1"}} className="nav-join-team-bttn">
                   FA24 Enrollment Info
             </button></a>
-              </li>
+              </li> */}
               {/* <li className="nav-item">
                 <Link to="/spec">Final Project</Link>
               </li> */}
