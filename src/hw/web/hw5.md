@@ -9,14 +9,14 @@ Ddoski made this cool app that lets you find the weather in a certain city/count
 
 But he lost some parts of his code in a storm!
 
-_[Help him. (Download skeleton code here.)](assets/hw5/sp24-hw5-skeleton.zip)_
+_[Help him. (Download skeleton code here.)](assets/hw5/fa24-hw5-skeleton.zip)_
 **Note: Only edit script.js.**
 
 ## Some Notes on Homework
 If you need help with the homework, make a post on Ed or pull up to office hours (second half of lab).
 
 # CLUE 0
-_Create an [OpenWeatherMap](https://openweathermap.org/) account. Use the default API Key or generate a new one by navigating to your profile and "My API Keys". Input your API Key into scripts.js as a <mark>string</mark>._
+_Create an [OpenWeatherMap](https://openweathermap.org/) account. Use the default API Key or generate a new one by navigating to your profile and "My API Keys". Input your API Key into scripts.js as a string._
 <img src="/assets/hw5/api-key.png" style="width: 130%; padding: 20px 0;"/>
 
 # CLUE 1
@@ -37,7 +37,7 @@ _Hint: JavaScript arrays are enclosed in square brackets []. You'll have to inde
 Here is a reminder on how to index into arrays.
 ```javascript
 // Here, we've created a list:
-const crazyList = [{myDog: "poodle"}, "G", 3.14, ["three figs", true], "CLK-to-q"]
+const crazyList = [{myDog: "poodle"}, "G", 3.14, ["PHYS_BASE", true], "CLK-to-q"]
 
 // Let's index into that list:
 const firstElement = crazyList[0];
@@ -83,7 +83,7 @@ htmlElement.innerHTML = "Updated Text!";
 To submit the homework folder, you have to zip it first.
 
 **To zip a folder:**
-_**Windows:** Right-click the folder **hw5-skeleton**, select (or point to) Send to, and then select Compressed (zipped) folder._
-_**macOS:** Control-click the folder **hw5-skeleton** or tap it using two fingers, then choose Compress from the shortcut menu._
+_**Windows:** Right-click the folder **fa24-hw5-skeleton**, select (or point to) Send to, and then select Compressed (zipped) folder._
+_**macOS:** Control-click the folder **fa24-hw5-skeleton** or tap it using two fingers, then choose Compress from the shortcut menu._
 
 Upload the .zip file to [Gradescope](https://www.gradescope.com/) :)
