@@ -20,7 +20,7 @@ Lecture and lab recordings are posted [here](https://drive.google.com/drive/fold
 | 3    | JavaScript[Slides](https://docs.google.com/presentation/d/1sJccnIQNGRovMVt_jmMAsgpSYTNAzw8X3e-uQCR8R74/edit?usp=sharing)     | Lab 3: DOM Manipulation with JS[Slides](https://docs.google.com/presentation/d/1re1sNZIo3o4n5_0wZaYPQzwSb6fpfZV9m6gt7XKctIc/edit?usp=sharing) | [HW 3: JavaScript Playground](#/hw/web/hw3) |
 | 4    | Intro to APIs[Slides](https://docs.google.com/presentation/d/1QyL4odpId0gzcFZ083tsXG-40SpmlIRPmPzA1JWBeAI/edit?usp=sharing)     | Lab 4: API Practice | [HW 4: API Quiz on Gradescope](https://www.gradescope.com/) |
 | 5    | APIs, Promises, & Fetch()[Slides](https://docs.google.com/presentation/d/19D1FFOfUj_Tb7Zr-IzlOHtQ8Io_86loSJCKtQt-UuJg/edit?usp=sharing) | Lab 5: Discord Webhook [Slides](https://docs.google.com/presentation/d/1A_ymGl2HXuC-VBfbbiYibgRk-8eto6H-62aZmmUb5lU/edit?usp=sharing)  | [HW 5: OpenWeatherMap API](#/hw/web/hw5)  |
-| 6    | Node & Express [Slides](https://docs.google.com/presentation/d/1URRoR4jriF6frufPbL48j0KtExJ9R6M9G7vRcq7Fnck/edit#slide=id.g28ac100dd94_0_108)    | Lab 6: Node & Express  | HW 6: Quizlet-ish Part 1 |
+| 6    | Node & Express [Slides](https:e//docs.google.com/presentation/d/1URRoR4jriF6frufPbL48j0KtExJ9R6M9G7vRcq7Fnck/edit#slide=id.g28ac100dd94_0_108)    | Lab CANCELED: Due to [Cal Hacks 11.0](https://calhacks.io/)  | HW 6: Quizlet-ish Part 1 |
 | 7    | MongoDB, Mongoose   | Lab 7: MongoDB & Express + Pet Finder   | HW 8: Quizlet-ish Part 2 |
 | 8    | Backends, Deployment, and Authentication  | Lab 7: Firebase  | *No HW* 
 | 9    | React I  | Lab 9: React I  |  HW 9: Social Media Website
