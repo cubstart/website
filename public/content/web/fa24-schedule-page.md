@@ -13,6 +13,8 @@ Join the [Ed](https://edstem.org/us/join/tyHBru) and [Gradescope](https://www.gr
 
 Lecture and lab recordings are posted [here](https://drive.google.com/drive/folders/18AAj_mcM7uHmq2KWuVdHVI4kSRmp_WOj?usp=sharing).
 
+Ignore the autograder for all homework submissions on Gradescope!
+
 | Week | Lecture                                                                                                                               | Lab Section | Homework/Project |
 |------|-----|-------|-------------|
 | 1    | HTML[Slides](https://docs.google.com/presentation/d/1yn-vazOitq1sv8bdhDhS2NwQwJYMVNlrwgFbEfr30VM/edit?usp=sharing)     | Lab 1: HTML[Slides](https://docs.google.com/presentation/d/1__qgbZ8quPBOTlsgcXcf5AIWfBRUs-UrVX3Pc1m69HI/edit?usp=sharing)   | [HW 1: HTML Basics](#/hw/web/hw1)    |
