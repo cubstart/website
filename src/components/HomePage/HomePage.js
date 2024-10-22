@@ -40,12 +40,12 @@ function HomePage(props) {
                         className="typing-text"
                         /></h1>
                     <p>Cubstart is a web/mobile development course for beginner to intermediate developers. Whether you need project experience, or don't know where to start, Cubstart is the course for you!</p>
-                    <div style={{"height":"7px"}}></div>
+                    {/* <div style={{"height":"7px"}}></div>
                     <a href="/#/enrollment-info" style={{"color":"#3e9ec3", "borderBottom":"1px solid #3e9ec3", "fontWeight":"700", "letterSpacing":"0em", "fontSize":"1.15em"}}>How Do I Enroll?</a>
                     <div style={{"height":"4px"}}></div>
-                    <p style={{"color":"#888", "fontSize":"0.97em"}}><em>While prerequisites are not enforced, prior coding experience is recommmended.</em></p>
+                    <p style={{"color":"#888", "fontSize":"0.97em"}}><em>While prerequisites are not enforced, prior coding experience is recommmended.</em></p> */}
 
-                    {/*<p >Got questions? Reach us at <a href="mailto:team@cubstart.com" style={{"color":"#3e9ec3", "fontWeight":"700"}}>team@cubstart.com</a></p>*/}
+                    <p>Got questions? Reach us at <a href="mailto:team@cubstart.com" style={{"color":"#3e9ec3", "fontWeight":"700"}}>team@cubstart.com</a></p>
                     <br/>
                     <div className="stats-wrapper">
                         <div className="stats-item">
