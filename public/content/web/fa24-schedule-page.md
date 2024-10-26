@@ -23,7 +23,7 @@ Ignore the autograder for all homework submissions on Gradescope!
 | 4    | Intro to APIs[Slides](https://docs.google.com/presentation/d/1QyL4odpId0gzcFZ083tsXG-40SpmlIRPmPzA1JWBeAI/edit?usp=sharing)     | Lab 4: API Practice[Slides](https://docs.google.com/presentation/d/1g19O8kMZV-wOKQfpwn5UyTpsDTHAl0cFc6HksT-yuuc/edit?usp=sharing) | [HW 4: API Quiz on Gradescope](https://www.gradescope.com/) |
 | 5    | APIs, Promises, & Fetch()[Slides](https://docs.google.com/presentation/d/19D1FFOfUj_Tb7Zr-IzlOHtQ8Io_86loSJCKtQt-UuJg/edit?usp=sharing) | Lab 5: Discord Webhook [Slides](https://docs.google.com/presentation/d/1A_ymGl2HXuC-VBfbbiYibgRk-8eto6H-62aZmmUb5lU/edit?usp=sharing)  | [HW 5: OpenWeatherMap API](#/hw/web/hw5)  |
 | 6    | Node & Express [Slides](https:e//docs.google.com/presentation/d/1URRoR4jriF6frufPbL48j0KtExJ9R6M9G7vRcq7Fnck/edit#slide=id.g28ac100dd94_0_108)    | Lab Canceled: Due to [Cal Hacks 11.0](https://calhacks.io/)  | [HW 6: Quizlet-ish Part 1](#/hw/web/hw6) |
-| 7    | Lecture Canceled   | Lab 7: MongoDB & Express + Pet Finder   | HW 8: Quizlet-ish Part 2 |
+| 7    | Lecture Canceled   | [Lab 7: MongoDB & Express + Pet Finder](https://docs.google.com/presentation/d/1D4Pp0u8FqJRmhjWDidEt2CBLbKYatGa72XuloNwRsMk/edit#slide=id.g30ed85b834c_4_121)     | HW 8: Quizlet-ish Part 2 |
 | 8    | Backends, Deployment, and Authentication  | Lab 7: Firebase  | *No HW* 
 | 9    | React I  | Lab 9: React I  |  HW 9: Social Media Website
 | 10   | React II | Lab 9: React II | Final Project Checkpoint |
