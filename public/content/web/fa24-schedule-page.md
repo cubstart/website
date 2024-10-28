@@ -4,16 +4,14 @@ Lab: Fridays 5-6pm @ Moffit 101
 
 Office Hours (optional): Fridays 6-7pm @ Moffit 101
 
-*To get to Moffit 101, take the corridor to the right of the 3rd floor entrance*.
-
-**Instruction begins on the week of September 9.**
-
 ## Announcements
 Join the [Ed](https://edstem.org/us/join/tyHBru) and [Gradescope](https://www.gradescope.com) with code 5KRNJJ.
 
 Lecture and lab recordings are posted [here](https://drive.google.com/drive/folders/18AAj_mcM7uHmq2KWuVdHVI4kSRmp_WOj?usp=sharing).
 
 Ignore the autograder for all homework submissions on Gradescope!
+
+**Final Project spec is [HERE](#/hw/web/spec)!**
 
 | Week | Lecture                                                                                                                               | Lab Section | Homework/Project |
 |------|-----|-------|-------------|
@@ -22,12 +20,11 @@ Ignore the autograder for all homework submissions on Gradescope!
 | 3    | JavaScript[Slides](https://docs.google.com/presentation/d/1sJccnIQNGRovMVt_jmMAsgpSYTNAzw8X3e-uQCR8R74/edit?usp=sharing)     | Lab 3: DOM Manipulation with JS[Slides](https://docs.google.com/presentation/d/1re1sNZIo3o4n5_0wZaYPQzwSb6fpfZV9m6gt7XKctIc/edit?usp=sharing) | [HW 3: JavaScript Playground](#/hw/web/hw3) |
 | 4    | Intro to APIs[Slides](https://docs.google.com/presentation/d/1QyL4odpId0gzcFZ083tsXG-40SpmlIRPmPzA1JWBeAI/edit?usp=sharing)     | Lab 4: API Practice[Slides](https://docs.google.com/presentation/d/1g19O8kMZV-wOKQfpwn5UyTpsDTHAl0cFc6HksT-yuuc/edit?usp=sharing) | [HW 4: API Quiz on Gradescope](https://www.gradescope.com/) |
 | 5    | APIs, Promises, & Fetch()[Slides](https://docs.google.com/presentation/d/19D1FFOfUj_Tb7Zr-IzlOHtQ8Io_86loSJCKtQt-UuJg/edit?usp=sharing) | Lab 5: Discord Webhook [Slides](https://docs.google.com/presentation/d/1A_ymGl2HXuC-VBfbbiYibgRk-8eto6H-62aZmmUb5lU/edit?usp=sharing)  | [HW 5: OpenWeatherMap API](#/hw/web/hw5)  |
-| 6    | Node & Express [Slides](https://docs.google.com/presentation/d/1URRoR4jriF6frufPbL48j0KtExJ9R6M9G7vRcq7Fnck/edit?usp=sharing)    | Lab Canceled: Due to [Cal Hacks 11.0](https://calhacks.io/)  | [HW 6: Quizlet-ish Part 1](#/hw/web/hw6) |
-| 7    | Lecture Canceled   | [Lab 7: MongoDB & Express + Pet Finder](https://docs.google.com/presentation/d/1D4Pp0u8FqJRmhjWDidEt2CBLbKYatGa72XuloNwRsMk/edit#slide=id.g30ed85b834c_4_121)     | HW 8: Quizlet-ish Part 2 |
-| 8    | Backends, Deployment, and Authentication  | Lab 7: Firebase  | *No HW* 
-| 9    | React I  | Lab 9: React I  |  HW 9: Social Media Website
-| 10   | React II | Lab 9: React II | Final Project Checkpoint |
+| 6    | Node & Express [Slides](https://docs.google.com/presentation/d/1URRoR4jriF6frufPbL48j0KtExJ9R6M9G7vRcq7Fnck/edit?usp=sharing)    | _Lab Canceled_  | [HW 6: Quizlet-ish Part 1](#/hw/web/hw6) |
+| 7    | _Lecture Canceled_   | Lecture 7: MongoDB & Mongoose[Slides](https://docs.google.com/presentation/d/1D4Pp0u8FqJRmhjWDidEt2CBLbKYatGa72XuloNwRsMk/edit#slide=id.g30ed85b834c_4_121)     | [HW 7: Quizlet-ish Part 2](#/hw/web/hw7) |
+| 8    | TBD  | TBD  | [Team Formation Form](https://forms.gle/GiVVgM4Nm3u5sNog7) due TBD 
+| 9    | React I  | _Lab Canceled_  |  Optional HW 9: Social Media Website
+| 10   | _Lecture Canceled (Veterans Day)_ | Lab 10: React | Final Project Checkpoint |
 | 11   | OPTIONAL Project OH  | OPTIONAL Project OH| Final Project |
-| 12   | Thanksgiving      | | Final Project
-| 13   | OPTIONAL Project OH        |  OPTIONAL Project OH              | Final Project  |
-| 14   | 🎉 Demo Day  |
+| 12   | _Lecture Canceled (Thanksgiving)_      | _Lab Canceled (Thanksgiving)_| Final Project
+| 14   | 🎉 Demo Day! Date: TBD (during dead week)  |

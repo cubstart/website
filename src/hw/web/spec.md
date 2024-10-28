@@ -1,6 +1,6 @@
 # Final Project Specification
 
-<!-- _**Please fill out the [Team Formation Form](https://forms.gle/QqXi5eJ84rzgP3tR8) DUE SUNDAY MARCH 24th!**_ -->
+_**Please fill out the [Team Formation Form](https://forms.gle/KxwUs6WHUntnyp1u6) DUE TBD!**_
 
 Your goal is to design and develop a web application that incorporates the following:
 
@@ -14,11 +14,11 @@ For those with prior web dev experience, we encourage you to go above and beyond
 <br></br>
 
 ## Part 1: Final Project Checkpoint (Project Proposal + Design Mockup)
-**Deadline:** Tuesday, April 9th
+**Deadline:** TBD (sometime during dead week)
 
 **Grade:** 10 points
 
-_<b>Action Item:</b> With your project team, fill out the [Final Project Checkpoint on Gradescope](https://www.gradescope.com/courses/709491/assignments/4257372) that consists of the parts listed below. Only one person should submit the assignment for your entire team, and then add the other teammates as collaborators._
+_<b>Action Item:</b> With your project team, fill out the Final Project Checkpoint on [Gradescope](https://www.gradescope.com) that consists of the parts listed below. Only **one person** should submit the assignment for your team, and then add the other teammates as collaborators._
 
 ### Project Proposal
 
@@ -41,11 +41,13 @@ Come up with a design to demonstrate your project idea using any design tool you
 <br>
 
 ## Part 2: Final Project Development + Presentation
-<b>Deadline:</b> Demo Day 🎉 (Friday May 3rd from 1-3pm) in the Woz (Soda 430), 40 points
+<b>Deadline:</b> Demo Day 🎉 , 40 points
+
+_The specifics of Demo Day are in the works, but this message will disappear once everything is finalized._
 
 On Demo Day, you will present your project to the class! Students will be split into cohorts and you will get the chance to view and share projects! **Prepare a 2 minute presentation + demo.** Walk us through a demo of your project, talk about how you created it, what technologies you used, what roadblocks you came across and how you solved them, what you could improve upon with more time, other functionalities that would be cool to implement, etc.
 
-Food + prizes will be provided 😋
+Prizes will be provided 😋
 
 <br></br>
 ## Grading Rubric
@@ -58,11 +60,10 @@ Food + prizes will be provided 😋
 | 5      | **Creativity**                   | How interesting and creative is your web application?                                                                                                    |
 <br></br>
 ## Tips + Advice
-- Attend Project Office Hours (check the schedule for dates/times). 
 - Get started early.
+- Attend Project Office Hours (check the schedule for dates/times). 
 - Collaborate with your group together in person.
 - Reference the materials we have provided you (slides, homeworks, recordings, etc).
-- Take time to read API documentation.
 - Use Postman as a tool to test API endpoints.
 - USE THE INTERNET AS A RESOURCE! [w3schools](https://www.w3schools.com/) and [MDN Web Docs](https://developer.mozilla.org/en-US/) are great resources.
 

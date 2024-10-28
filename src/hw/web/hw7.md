@@ -12,15 +12,15 @@ This will be the finished product:
 
 Since you've already downloaded Node.js in the last homework, we're just going to set up a project with an existing package.json.
 
-_[Download the skeleton here.](assets/hw7/sp24-hw7-skeleton.zip)_
+_[Download the skeleton here.](assets/hw7/fa24-hw7-skeleton.zip)_
 
-Extract the skeleton .zip. Open the VS Code terminal by going to Terminal -> New Terminal at the very top of your screen. Alternatively, open the default Mac or Windows terminal and change directories (eg. `cd Desktop`) into the `sp24-hw7-skeleton` folder. Run the command:
+Extract the skeleton .zip. Open the VS Code terminal by going to Terminal -> New Terminal at the very top of your screen. Alternatively, open the default Mac or Windows terminal and change directories (eg. `cd Desktop`) into the `fa24-hw7-skeleton` folder. Run the command:
 
 ```bash
 npm install
 ```
 
-Your folder should look like this:
+Your folder should look like this (but updated with the fa24 folder name):
 
 <img src="/assets/hw7/folder-setup.PNG" style="width: 50%; padding: 20px 0;"/>
 
