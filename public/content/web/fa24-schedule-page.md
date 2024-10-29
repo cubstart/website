@@ -22,7 +22,7 @@ Ignore the autograder for all homework submissions on Gradescope!
 | 5    | APIs, Promises, & Fetch()[Slides](https://docs.google.com/presentation/d/19D1FFOfUj_Tb7Zr-IzlOHtQ8Io_86loSJCKtQt-UuJg/edit?usp=sharing) | Lab 5: Discord Webhook [Slides](https://docs.google.com/presentation/d/1A_ymGl2HXuC-VBfbbiYibgRk-8eto6H-62aZmmUb5lU/edit?usp=sharing)  | [HW 5: OpenWeatherMap API](#/hw/web/hw5)[Solution](/assets/hw5/solution.js) |
 | 6    | Node & Express [Slides](https://docs.google.com/presentation/d/1URRoR4jriF6frufPbL48j0KtExJ9R6M9G7vRcq7Fnck/edit?usp=sharing)    | _Lab Canceled_  | [HW 6: Quizlet-ish Part 1](#/hw/web/hw6) |
 | 7    | _Lecture Canceled_   | Lecture 7: MongoDB & Mongoose[Slides](https://docs.google.com/presentation/d/1D4Pp0u8FqJRmhjWDidEt2CBLbKYatGa72XuloNwRsMk/edit#slide=id.g30ed85b834c_4_121)     | [HW 7: Quizlet-ish Part 2](#/hw/web/hw7) |
-| 8    | [MongoDB + Express Lab](https://docs.google.com/presentation/d/1Xv5Ma74qOGWoay5gcZWTxBZ8f1VdD8etWbcoy12bsdQ/edit?usp=sharing)  | React I  | [Team Formation Form](https://forms.gle/GiVVgM4Nm3u5sNog7) due TBD 
+| 8    | Lab 7: MongoDB + Express[Slides](https://docs.google.com/presentation/d/1Xv5Ma74qOGWoay5gcZWTxBZ8f1VdD8etWbcoy12bsdQ/edit?usp=sharing)  | Lecture 8: React I  | [Team Formation Form](https://forms.gle/GiVVgM4Nm3u5sNog7) due Nov 1 
 | 9    | Lecture 9: React II  | _Lab Canceled_  |  Optional HW 9: Social Media Website
 | 10   | _Lecture Canceled (Veterans Day)_ | Lab 10: More React | Final Project Checkpoint |
 | 11   | OPTIONAL Project OH  | OPTIONAL Project OH| Final Project |

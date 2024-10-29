@@ -1,6 +1,6 @@
 # Final Project Specification
 
-_**Please fill out the [Team Formation Form](https://forms.gle/KxwUs6WHUntnyp1u6) DUE TBD!**_
+_**Please fill out the [Team Formation Form](https://forms.gle/KxwUs6WHUntnyp1u6) DUE NOV 1!**_
 
 Your goal is to design and develop a web application that incorporates the following:
 
@@ -14,7 +14,7 @@ For those with prior web dev experience, we encourage you to go above and beyond
 <br></br>
 
 ## Part 1: Final Project Checkpoint (Project Proposal + Design Mockup)
-**Deadline:** TBD (sometime during dead week)
+**Deadline:** November 11
 
 **Grade:** 10 points
 
@@ -41,7 +41,7 @@ Come up with a design to demonstrate your project idea using any design tool you
 <br>
 
 ## Part 2: Final Project Development + Presentation
-<b>Deadline:</b> Demo Day 🎉 , 40 points
+<b>Deadline:</b> Demo Day 🎉 (sometime during dead week), 40 points
 
 _The specifics of Demo Day are in the works, but this message will disappear once everything is finalized._
 
