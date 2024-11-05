@@ -43,9 +43,9 @@ Come up with a design to demonstrate your project idea using any design tool you
 ## Part 2: Final Project Development + Presentation
 <b>Deadline:</b> Demo Day 🎉 (sometime during dead week), 40 points
 
-_The specifics of Demo Day are in the works, but this message will disappear once everything is finalized._
+_The specifics of Demo Day are in the works. This message will disappear once everything is finalized._
 
-On Demo Day, you will present your project to the class! Students will be split into cohorts and you will get the chance to view and share projects! **Prepare a 2 minute presentation + demo.** Walk us through a demo of your project, talk about how you created it, what technologies you used, what roadblocks you came across and how you solved them, what you could improve upon with more time, other functionalities that would be cool to implement, etc.
+On Demo Day, you will present your project to the class! Students will be split into cohorts and you will get the chance to view and share projects! **Prepare a 1.5 minute demo + presentation.** Please focus your demo and de-emphasize any slide deck or business pitch (although these are allowed). Walk us through a demo of your project, talk about how you created it, what technologies you used, what roadblocks you came across and how you solved them, what you could improve upon with more time, other functionalities that would be cool to implement, etc.
 
 Prizes will be provided 😋
 
