@@ -23,7 +23,7 @@ Ignore the autograder for all homework submissions on Gradescope!
 | 6    | Node & Express [Slides](https://docs.google.com/presentation/d/1URRoR4jriF6frufPbL48j0KtExJ9R6M9G7vRcq7Fnck/edit?usp=sharing)    | _Lab Canceled_  | [HW 6: Quizlet-ish Part 1](#/hw/web/hw6) |
 | 7    | _Lecture Canceled_   | Lecture 7: MongoDB & Mongoose[Slides](https://docs.google.com/presentation/d/1D4Pp0u8FqJRmhjWDidEt2CBLbKYatGa72XuloNwRsMk/edit#slide=id.g30ed85b834c_4_121)     | [HW 7: Quizlet-ish Part 2](#/hw/web/hw7) |
 | 8    | Lab 7: MongoDB + Express[Slides](https://docs.google.com/presentation/d/1Xv5Ma74qOGWoay5gcZWTxBZ8f1VdD8etWbcoy12bsdQ/edit?usp=sharing)  | Optional Team Formation + OH  | [Team Formation Form](https://forms.gle/GiVVgM4Nm3u5sNog7) due Nov 1 
-| 9    | Lecture 9: React I  | _Lab Canceled_  |  Optional HW 9: Social Media Website
+| 9    | Lecture 9: React I [Slides](https://docs.google.com/presentation/d/1gMu0lSc0qlvKddhwuDV1H-7AUTOlaqQCLJfM8iHFbNo/edit?usp=sharing)  | _Lab Canceled_  |  Optional HW 9: Social Media Website
 | 10   | _Lecture Canceled (Veterans Day)_ | Lab 10: More React | Final Project Checkpoint |
 | 11   | OPTIONAL Project OH  | OPTIONAL Project OH| Final Project |
 | 12   | _Lecture Canceled (Thanksgiving)_      | _Lab Canceled (Thanksgiving)_| Final Project
