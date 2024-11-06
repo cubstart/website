@@ -21,8 +21,8 @@ Join the [Ed](https://edstem.org/us/join/9rtEur) and [Gradescope](https://www.gr
 | 6    | Animations [Slides](https://drive.google.com/file/d/1lQpG6xNl1NNEH61W6F8-VytsbdB7uct0/view?usp=sharing) [Recording](https://youtu.be/gu2EK4hb1B4?si=EhuDtYdsqZBNk6fR) | Discussion 6 | [Mini Project 2: Class Planner](https://calhacks.notion.site/Mini-Project-2-Class-Planner-6037a8d265bb45d9b4bf1ab6a6d0382b?pvs=4) |
 | 7    | NO LECTURE | NO DISCUSSION | |
 | 8    | API Integration [Slides](https://drive.google.com/file/d/11IzadxA-s6iqjX-1WKbT8MbZXX3kHh_X/view?usp=sharing) [Recording](https://drive.google.com/file/d/1IxRJfE76uJSBVWp5fCUlv5pJrRQfW4l7/view?usp=sharing) | [Discussion 7](https://drive.google.com/file/d/1zvHYea94gZr502Wogu7ZoD7e9gkx50Ct/view?usp=sharing) [Discussion 7 Solutions](https://drive.google.com/file/d/1YUH6fCPg02TmaVxoa_33YDb6QY3MLa8J/view?usp=sharing)  |   |
-| 9    | SwiftData [Slides](https://drive.google.com/file/d/1-iywCp957q0nA_Ybn-VsuIAnYZUN0_7J/view?usp=sharing) | Discussion 8 |  |
-| 10   | Firebase | Discussion 9 | 
+| 9    | SwiftData [Slides](https://drive.google.com/file/d/1-iywCp957q0nA_Ybn-VsuIAnYZUN0_7J/view?usp=sharing) [Recording](https://youtu.be/9FpySjT40Xg?si=MLE7Y7Z_Uln63EI3)| Discussion 8 | [Final Project Specs](https://calhacks.notion.site/FA24-Cubstart-iOS-Final-Project-Spec-aef9b4cb29d54aa2a2e23f7c98dad11b?pvs=4) [Idea Proposal Specs](https://calhacks.notion.site/Idea-Proposal-and-Figma-Prototype-Spec-933dcd398b614daa855a0730c5262794?pvs=4) |
+| 10   | Firebase | Discussion 9 | Final Project |
 | 11   | Special Topic Lecture | Final Project OH | Final Project |
 | 12   | Thanksgiving | 🦃 | Final Project |
 | 13   | Special Topic Lecture | Final Project OH | Final Project 
