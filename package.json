@@ -51,5 +51,9 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  }
+  },
+  "description": "Main website for the Cubstart DeCal (www.cubstart.com)",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
