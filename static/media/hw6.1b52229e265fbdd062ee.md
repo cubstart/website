@@ -3,7 +3,7 @@
 ## Ddoski needs your help!
 Ddoski wants to build a flashcard website, but so far he's only built the frontend (the webpage with HTML and CSS)! His project partner, Oski, was supposed to be working on the API, but he has gone MIA :(. Ddoski sees he started on some parts of the backend code. Can you finish it?
 
-_[Download skeleton code.](assets/hw6/sp24-hw6-skeleton.zip)_
+_[Download skeleton code.](assets/hw6/fa24-hw6-skeleton.zip)_
 
 # Part 1: Set up your Project
 First, download [Node.js](https://nodejs.org/en/download/).
@@ -91,7 +91,7 @@ In the example below, we have deleted the card at index 1 and our API responded 
 For HW 6, <mark>**only submit your index.js file**</mark>. This is because node_modules is quite a large folder and it might take some time to upload. Zip your index.js file and submit to Gradescope!
 
 **To zip a folder/file:**
-_**Windows:** Right-click the folder **sp24-hw6-skeleton**, select (or point to) Send to, and then select Compressed (zipped) folder._
-_**macOS:** Control-click the folder **sp24-hw6-skeleton** or tap it using two fingers, then choose Compress from the shortcut menu._
+_**Windows:** Right-click the folder **fa24-hw6-skeleton**, select (or point to) Send to, and then select Compressed (zipped) folder._
+_**macOS:** Control-click the folder **fa24-hw6-skeleton** or tap it using two fingers, then choose Compress from the shortcut menu._
 
 Upload the .zip file to [Gradescope](https://www.gradescope.com/) :)
