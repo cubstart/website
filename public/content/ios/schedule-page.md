@@ -24,6 +24,6 @@ Join the [Ed](https://edstem.org/us/join/9rtEur) and [Gradescope](https://www.gr
 | 9    | SwiftData [Slides](https://drive.google.com/file/d/1-iywCp957q0nA_Ybn-VsuIAnYZUN0_7J/view?usp=sharing) [Recording](https://youtu.be/9FpySjT40Xg?si=MLE7Y7Z_Uln63EI3)| [Discussion 8](https://drive.google.com/file/d/1L69l12oZkweevGfps2lR9O0jiw7AjG8t/view?usp=sharing) | [Final Project Specs](https://calhacks.notion.site/FA24-Cubstart-iOS-Final-Project-Spec-aef9b4cb29d54aa2a2e23f7c98dad11b?pvs=4) [Idea Proposal Specs](https://calhacks.notion.site/Idea-Proposal-and-Figma-Prototype-Spec-933dcd398b614daa855a0730c5262794?pvs=4) |
 | 10   | NO LECTURE |  NO DISCUSSION |
 | 11   | Firebase [Slides](https://drive.google.com/file/d/1z2oxwVIyLYR-5B6McdYeVdho5Nk02oFl/view?usp=sharing) [Recording](https://drive.google.com/file/d/1YqkaEvvceFIY9wkjsoTMaWZtoErh0izr/view?usp=sharing) | [Lab 9](https://classroom.github.com/a/ANOZKB5k) [Solutions](https://classroom.github.com/a/2XyTcT6P) | Final Project |
-| 12   | Thanksgiving | 🦃 | Final Project |
+| 12   | OPTIONAL: Widgets [Slides](https://drive.google.com/file/d/1puqu0gbwocRBx_0WZIJIJEr0863HoAD9/view?usp=sharing) | 🦃 | Final Project |
 | 13   | Special Topic Lecture | Final Project OH | Final Project 
 | 14   | 🎉 Demo Day | Final Project OH | Final Project 
