@@ -1,7 +1,5 @@
 # Final Project Specification
 
-_**Please fill out the [Team Formation Form](https://forms.gle/KxwUs6WHUntnyp1u6) DUE NOV 1!**_
-
 Your goal is to design and develop a web application that incorporates the following:
 
 1. Content, Structure, and Style (HTML + CSS)
@@ -41,9 +39,7 @@ Come up with a design to demonstrate your project idea using any design tool you
 <br>
 
 ## Part 2: Final Project Development + Presentation
-<b>Deadline:</b> Demo Day 🎉 (sometime during dead week), 40 points
-
-_The specifics of Demo Day are in the works. This message will disappear once everything is finalized._
+<b>Deadline:</b> Demo Day! (Tuesday, December 10th 3-5pm @ Wozniak Lounge), 40 points
 
 On Demo Day, you will present your project to the class! Students will be split into cohorts and you will get the chance to view and share projects! **Prepare a 1.5 minute demo + presentation.** Please focus your demo and de-emphasize any slide deck or business pitch (although these are allowed). Walk us through a demo of your project, talk about how you created it, what technologies you used, what roadblocks you came across and how you solved them, what you could improve upon with more time, other functionalities that would be cool to implement, etc.
 

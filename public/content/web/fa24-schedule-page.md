@@ -13,6 +13,8 @@ Ignore the autograder for all homework submissions on Gradescope!
 
 **Final Project spec is [HERE](#/hw/web/spec)!**
 
+**Demo Day is Tuesday, December 10th 3-5pm @ Wozniak Lounge (Soda 430)!** Pizza + prizes will be provided :)
+
 | Week | Lecture                                                                                                                               | Lab Section | Homework/Project |
 |------|-----|-------|-------------|
 | 1    | HTML[Slides](https://docs.google.com/presentation/d/1yn-vazOitq1sv8bdhDhS2NwQwJYMVNlrwgFbEfr30VM/edit?usp=sharing)     | Lab 1: HTML[Slides](https://docs.google.com/presentation/d/1__qgbZ8quPBOTlsgcXcf5AIWfBRUs-UrVX3Pc1m69HI/edit?usp=sharing)   | [HW 1: HTML Basics](#/hw/web/hw1)    |
@@ -27,4 +29,4 @@ Ignore the autograder for all homework submissions on Gradescope!
 | 10   | _Lecture Canceled (Veterans Day)_ | Lab 10: More React | Final Project Checkpoint |
 | 11   | OPTIONAL Project OH  | OPTIONAL Project OH| Final Project |
 | 12   | _Lecture Canceled (Thanksgiving)_      | _Lab Canceled (Thanksgiving)_| Final Project
-| 14   | 🎉 Demo Day! Date: TBD (during dead week)  |
+| 14   | 🎉 Demo Day! Date: Tuesday, December 10th @ Wozniak Lounge  |
