@@ -25,5 +25,5 @@ Join the [Ed](https://edstem.org/us/join/9rtEur) and [Gradescope](https://www.gr
 | 10   | NO LECTURE |  NO DISCUSSION |
 | 11   | Firebase [Slides](https://drive.google.com/file/d/1z2oxwVIyLYR-5B6McdYeVdho5Nk02oFl/view?usp=sharing) [Recording](https://drive.google.com/file/d/1YqkaEvvceFIY9wkjsoTMaWZtoErh0izr/view?usp=sharing) | [Lab 9](https://classroom.github.com/a/ANOZKB5k) [Solutions](https://classroom.github.com/a/xmWjhsVF) | Final Project |
 | 12   | OPTIONAL: Widgets [Slides](https://drive.google.com/file/d/1puqu0gbwocRBx_0WZIJIJEr0863HoAD9/view?usp=sharing) [Recording](https://youtu.be/XwttjwI270c?si=xku-YUkdYcZbQJJn)| 🦃 | Final Project |
-| 13   | Special Topic Lecture | Final Project OH | Final Project 
-| 14   | 🎉 Demo Day | Final Project OH | Final Project 
+| 13   | Final Project OH | Final Project OH | Final Project 
+| 14   | 🎉 **Demo Day Thursday, 12/12 3-5pm @ Wozniak Lounge** | Final Project OH | Final Project
