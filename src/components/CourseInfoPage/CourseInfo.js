@@ -20,6 +20,7 @@ function CourseInfoPage() {
     <div className="text-wrapper">
       <div className="header">
         <h1>Course Information</h1>
+        <p style={{"color": "red"}}><strong>🚧 UNDER CONSTRUCTION 🚧</strong></p>
       </div>
       <ReactMarkdown children={content} remarkPlugins={[gfm]} components={{table: ({node, ...props}) => <table className="styled-table" {...props} />,
       a: ({node, ...props}) => <a className="a-special" {...props}>{props.children}</a> }}/>

@@ -22,7 +22,7 @@ function FAQPage(props) {
     <label className="accordion__item">
       <input type="checkbox" name="accordion"/>
       <div className="accordion__title">Is there any required material?</div>
-      <div className="accordion__content">If participating in the iOS track, you'll need a MacBook with macOS 10.14.3+ later that can run Xcode 11. Older Macs may run into some issues. <br/><br/>For the web track, you should be fine with nearly any laptop.</div>
+      <div className="accordion__content">If participating in the iOS track, you'll need a MacBook with macOS Ventura 13.5+ later that can run Xcode 15+. Older Macs may run into some issues. <br/><br/>For the web track, you should be fine with nearly any laptop.</div>
     </label>
     <label className="accordion__item">
       <input type="checkbox" name="accordion"/>
@@ -32,7 +32,7 @@ function FAQPage(props) {
     <label className="accordion__item">
       <input type="checkbox" name="accordion"/>
       <div className="accordion__title">How do I apply?</div>
-      <div className="accordion__content">Go to your CalCentral Enrollment Center and search 29886 for the Web Track OR 29885 for the iOS Track.</div>
+      <div className="accordion__content">Go to your CalCentral Enrollment Center and search <strong>29552</strong> for the Web Track (COMPSCI 198-750) OR <strong>29540</strong> for the iOS Track (COMPSCI 198-075).</div>
     </label>
     <label className="accordion__item">
       <input type="checkbox" name="accordion"/>
