@@ -1,10 +1,7 @@
 import { useState, useEffect } from 'react'
-import ReactMarkdown from "react-markdown";
-import gfm from "remark-gfm";
 import "../SchedulePage/SchedulePage.css"
 import "../HomeworkPage/homework.css"
 import "./enrollment.css"
-import Footer from '../Footer/Footer';
 
 function EnrollmentInfoPage() {
   const [content, setContent] = useState("");
@@ -24,7 +21,7 @@ function EnrollmentInfoPage() {
         <h1 style={{"color":"#3e9ec3", "fontWeight":"bold", "fontSize":"2.5em"}}>How do I Enroll?</h1>
       </div>
 
-      <p style={{"textAlign":"center", "color":"#3e9ec3", "fontWeight":"500", "letterSpacing":"-0.01em" }}>Enroll in Cubstart through these 3 easy steps!</p>
+      <p style={{"textAlign":"center", "color":"#3e9ec3", "fontWeight":"500", "letterSpacing":"-0.01em" }}>Enroll in Cubstart through these 4 easy steps!</p>
 
       <br/>
 
@@ -32,7 +29,9 @@ function EnrollmentInfoPage() {
       
       <div style={{ "display":"flex", "flexDirection":"row", "alignItems":"center"}}><h3 className="enrollment_header" style={{"color":"#3e9ec3", "marginRight":"10px",}}>Step 2: </h3><p style={{"marginTop":"19px"}}>Search for either <span style={{"color":"#3e9ec3", "fontWeight":"600", "letterSpacing":"0em"}}>29552</span> for our <span style={{"color":"#3e9ec3", "fontWeight":"600", "letterSpacing":"0em"}}>Web Track</span> (CS 198-750) or <span style={{"color":"#3e9ec3", "fontWeight":"600", "letterSpacing":"0em"}}>29540</span> for our <span style={{"color":"#3e9ec3", "fontWeight":"600", "letterSpacing":"0em"}}>iOS Track</span> (CS 198-075)</p></div>
       
-      <div style={{ "display":"flex", "flexDirection":"row", "alignItems":"center"}}><h3 className="enrollment_header" style={{"color":"#3e9ec3", "marginRight":"10px",}}>Step 3: </h3><p style={{"marginTop":"19px"}}>Go through all the steps to enroll, leaving the permission number blank! Then you're <span style={{"color":"#3e9ec3", "fontWeight":"700", "letterSpacing":"-0.03em"}}>DONE!</span></p></div>
+      <div style={{ "display":"flex", "flexDirection":"row", "alignItems":"center"}}><h3 className="enrollment_header" style={{"color":"#3e9ec3", "marginRight":"10px",}}>Step 3: </h3><p style={{"marginTop":"19px"}}>Go through all the steps to enroll, leaving the permission number blank!</p></div>
+
+      <div style={{ "display":"flex", "flexDirection":"row", "alignItems":"center"}}><h3 className="enrollment_header" style={{"color":"#3e9ec3", "marginRight":"10px",}}>Step 4: </h3><p style={{"marginTop":"19px"}}> Join your respective section's Ed and Gradescope in the "Schedule" Tab in the Cubstart Website. <br></br> Then you're <span style={{"color":"#3e9ec3", "fontWeight":"700", "letterSpacing":"-0.03em"}}>DONE!</span></p></div>
     
       <p>Got stuck? Ask us anything at <a href="mailto:team@cubstart.com" style={{"color":"#3e9ec3", "fontWeight":"600", "letterSpacing":"0em"}}>team@cubstart.com</a></p>
       
