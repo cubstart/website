@@ -1,10 +1,10 @@
 **Course Designation:** CS 198-075 (iOS Track), CS 198-750 (Web Track)
 
-**Facilitators:** Jessica Ng, Madhav Varshney, Justin Wong
+**Facilitators:** Justin Wong, Sam Poder, Dylan Dinh-lan Chhum
 
 **EECS Dept. Sponsor:** Justin Yokota
 
-**Course Catalog:** Fall 2024
+**Course Catalog:** Spring 2025
 
 **Contact:** team@cubstart.com
 
@@ -24,7 +24,7 @@ For the Web track, we do not reforce prereqs, but prior coding experience of any
 
 _Textbooks and Required Materials_
 
-If participating in the iOS track, you’ll need a MacBook with macOS 13.5 (Ventura) or later that can run Xcode 15. Older Macs may have performance issues with Xcode.
+If participating in the iOS track, you’ll need a MacBook with macOS 13.5 (Ventura) or later that can run Xcode 15+ (Preferably Xcode 16+). Older Macs on Intel chips may have performance issues with Xcode.
 
 ## Lectures
 
@@ -32,7 +32,7 @@ The weekly lectures are intended to give an introduction to the contents covered
 
 ## Lab/Discussion
 
-Labs are a fun way to learn and practice the content in a more hands-on way! We have all sorts of exciting exercises for you to make your own demos and small apps. They also serve as a means of introducing the homework assignment (that was assigned the previous week) for those who are struggling to grasp certain concepts or haven't gotten around to doing the assigned homework. 
+Labs (called discussions for Cubstart iOS) are a fun way to learn and practice the content in a more hands-on way! We have all sorts of exciting exercises for you to make your own demos and small apps. They also serve as a means of introducing the homework assignment (that was assigned the previous week) for those who are struggling to grasp certain concepts or haven't gotten around to doing the assigned homework. 
 
 **Web & iOS**: The **first hour of lab/discussion is required**. The second half of lab/discussion serves as office hours / homework party and is optional, but highly recommended for those new to programming.
 
@@ -57,9 +57,9 @@ To earn a P, you will need >= 70%. This course is fast-paced and highly cumulati
 
 **Web**: You are allowed up to **4 unexcused absences across lectures and labs**.
 
-**iOS**: You are allowed up to **2 unexcused absences across lectures and discussions each respectively**. If you are not able to attend a lecture or discussion, you can complete the corresponding alternative assignment on Ed. Completing alternative assignments will treat you as if you were there.
+**iOS**: You are allowed up to **2 unexcused absences across lectures and discussions each respectively**.
 
-If you have an extenuating circumstance and have used up your unexcused absences, please fill out our excused absences form. Your grade will not be impacted by the first two unexcused absences, nor by any excused absences.
+If you have an extenuating circumstance and have used up your unexcused absences, please fill out our Excused Absences form. Your grade will not be impacted by the first two unexcused absences, nor by any excused absences.
 
 ## Homeworks
 
