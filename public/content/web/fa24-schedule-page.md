@@ -1,32 +1,83 @@
-Lecture: Mondays 5-6pm @ Moffit 101
+_Every Thursday from 7pm to 9pm in [Soda 306](https://coeesg.wpengine.com/av-facilities-and-services-by-room/soda306/)._
 
-Lab: Fridays 5-6pm @ Moffit 101
+Cubstart is a Decal offered by Hackathons @ Berkeley (the team behind Cal Hacks). It's an introduction to building fullstack web applications. By the end of the course, you'll:
 
-Office Hours (optional): Fridays 6-7pm @ Moffit 101
+* Be able to ship real-world projects.
+* Have experience with a range of technologies, both frontend and backend.
+* Be able to take initiative as a developer.
+* Feel comfortable debugging on your own.
 
-## Announcements
-Join the [Ed](https://edstem.org/us/join/tyHBru) and [Gradescope](https://www.gradescope.com) with code 5KRNJJ.
+## Structure
 
-Lecture and lab recordings are posted [here](https://drive.google.com/drive/folders/18AAj_mcM7uHmq2KWuVdHVI4kSRmp_WOj?usp=sharing).
+This class will meet once a week every Thursday. Each session will have a different theme (see below for the calendar). After a brief mini-lecture, each student will work on a project of their own. For example, for our first session, every student will make their own personal website. At the end of each session, students will share what they've made with their peers and course staff.
 
-Ignore the autograder for all homework submissions on Gradescope!
+The last four weeks will be dedicated to your final project, which is ideating and building a viable product/application. You’ll work with a team or alone; we will be offering office hours support along the way. Besides the final project, there'll be no homework for this semester.
 
-**Final Project spec is [HERE](#/hw/web/spec)!**
+## Communication
 
-**Demo Day is Tuesday, December 10th 3-5pm @ Wozniak Lounge (Soda 430)!** Pizza + prizes will be provided :)
+All students should join the class' Ed Discussion: [edstem.org/us/join/QBybhC](https://edstem.org/us/join/QBybhC). We encourage you to make your posts public as other students may have similar questions. If you need to contact us about a private matter, please make a private Ed post.
 
-| Week | Lecture                                                                                                                               | Lab Section | Homework/Project |
-|------|-----|-------|-------------|
-| 1    | HTML[Slides](https://docs.google.com/presentation/d/1yn-vazOitq1sv8bdhDhS2NwQwJYMVNlrwgFbEfr30VM/edit?usp=sharing)     | Lab 1: HTML[Slides](https://docs.google.com/presentation/d/1__qgbZ8quPBOTlsgcXcf5AIWfBRUs-UrVX3Pc1m69HI/edit?usp=sharing)   | [HW 1: HTML Basics](#/hw/web/hw1)    |
-| 2    | CSS[Slides](https://docs.google.com/presentation/d/1jca2ANy5hidaWA8h_0QcvY_biS4LpiAavqL01NDH9Mk/edit?usp=sharing)                              | Lab 2: CSS[Slides](https://docs.google.com/presentation/d/1ui-5rWP7jHs7qAFQeCzZFzpxk-JICk3fR3da8lSZZMA/edit?usp=sharing) [Flexbox Example](https://github.com/cubstart/flexbox-example-web-fa24?tab=readme-ov-file) [Flex Wrap Example](https://github.com/cubstart/media-query-example-web-fa24) | [HW 2: Personal Portfolio](#/hw/web/hw2) | | 3    | JavaScrip[Slides](https://docs.google.com/presentation/d/1sJccnIQNGRovMVt_jmMAsgpSYTNAzw8X3e-uQCR8R74/edit?usp=sharing) | Lab 3: DOM Manipulation with JS  | [HW 3: JavaScript Playground](#/hw/web/hw3)  |
-| 3    | JavaScript[Slides](https://docs.google.com/presentation/d/1sJccnIQNGRovMVt_jmMAsgpSYTNAzw8X3e-uQCR8R74/edit?usp=sharing)     | Lab 3: DOM Manipulation with JS[Slides](https://docs.google.com/presentation/d/1re1sNZIo3o4n5_0wZaYPQzwSb6fpfZV9m6gt7XKctIc/edit?usp=sharing) | [HW 3: JavaScript Playground](#/hw/web/hw3) |
-| 4    | Intro to APIs[Slides](https://docs.google.com/presentation/d/1QyL4odpId0gzcFZ083tsXG-40SpmlIRPmPzA1JWBeAI/edit?usp=sharing)     | Lab 4: API Practice[Slides](https://docs.google.com/presentation/d/1g19O8kMZV-wOKQfpwn5UyTpsDTHAl0cFc6HksT-yuuc/edit?usp=sharing) | [HW 4: API Quiz on Gradescope](https://www.gradescope.com/) |
-| 5    | APIs, Promises, & Fetch()[Slides](https://docs.google.com/presentation/d/19D1FFOfUj_Tb7Zr-IzlOHtQ8Io_86loSJCKtQt-UuJg/edit?usp=sharing) | Lab 5: Discord Webhook [Slides](https://docs.google.com/presentation/d/1A_ymGl2HXuC-VBfbbiYibgRk-8eto6H-62aZmmUb5lU/edit?usp=sharing)  | [HW 5: OpenWeatherMap API](#/hw/web/hw5)[Solution](/assets/hw5/solution.js) |
-| 6    | Node & Express [Slides](https://docs.google.com/presentation/d/1URRoR4jriF6frufPbL48j0KtExJ9R6M9G7vRcq7Fnck/edit?usp=sharing)    | _Lab Canceled_  | [HW 6: Quizlet-ish Part 1](#/hw/web/hw6) |
-| 7    | _Lecture Canceled_   | Lecture 7: MongoDB & Mongoose[Slides](https://docs.google.com/presentation/d/1D4Pp0u8FqJRmhjWDidEt2CBLbKYatGa72XuloNwRsMk/edit#slide=id.g30ed85b834c_4_121)     | [HW 7: Quizlet-ish Part 2](#/hw/web/hw7) |
-| 8    | Lab 7: MongoDB + Express[Slides](https://docs.google.com/presentation/d/1Xv5Ma74qOGWoay5gcZWTxBZ8f1VdD8etWbcoy12bsdQ/edit?usp=sharing)  | Optional Team Formation + OH  | [Team Formation Form](https://forms.gle/GiVVgM4Nm3u5sNog7) due Nov 1 
-| 9    | Lecture 9: React I [Slides](https://docs.google.com/presentation/d/1gMu0lSc0qlvKddhwuDV1H-7AUTOlaqQCLJfM8iHFbNo/edit?usp=sharing)  | _Lab Canceled_  |  Optional HW 9: Social Media Website
-| 10   | _Lecture Canceled (Veterans Day)_ | Lab 10: More React [Sides](https://docs.google.com/presentation/d/1C8YN3ZKUKJZFT42BUpzdn6TR4YCxhilm398iXxPa64o/edit#slide=id.g17da792fb36_0_3) | Final Project Checkpoint |
-| 11   | OPTIONAL Project OH  | OPTIONAL Project OH| Final Project |
-| 12   | _Lecture Canceled (Thanksgiving)_      | _Lab Canceled (Thanksgiving)_| Final Project
-| 14   | 🎉 Demo Day! Date: Tuesday, December 10th @ Wozniak Lounge  |
+## Submissions
+
+Students should make a PR to this repository every week with the project they made that week. There'll be a corresponding folder, eg. `week1`. Final projects should be submitted as a GitHub repository.
+
+## Requirements
+
+We do not enforce prerequisites, but prior coding experience of any kind is recommended (high school course, CS10, CS61A, etc). Students should come to the first session of class w/ an IDE (we recommend VSCode), Node.js, and GitHub Desktop installed.
+
+Above all, bring positivity and curiosity to class! The more you give to the class, the more you'll get out of it.
+
+## Calendar
+
+**Week 1 (6th February):** building a personal website with HTML.
+
+**Week 2 (13th February):** styling our personal websites using CSS.
+
+**Week 3 (20th February):** making our personal websites move with JavaScript. 
+
+**Week 4 (27th February):** making API calls from our personal website.
+
+**Week 5 (6th March):** building a chat app with Socket.io.
+
+**Week 6 (13th March):** customizing our chat apps, with CSS & JavaScript (Part 1).
+
+**Week 7 (20th March):** customizing our chat apps, with CSS & JavaScript (Part 2).
+
+**Week 8 (27th March):** saving our messages in a database.
+
+**Week 9 (3rd April):** building a cookie clicker game with React.js
+
+**Week 10 (10th April):** improving our cookie clicker games.
+
+**Week 11 (17th April):** final project team formation and ideation. 
+
+**Week 12 (24th April):** final project worksession.
+
+**Week 13 (1st May):** final project worksession.
+
+## Policies
+
+* All students are expected to follow the Berkeley Honour Code: _"As a member of the UC Berkeley community, I act with honesty, integrity, and respect for others.”_
+* You can get conceptual help, but you must not submit code from other sources, such as other students or Stack Overflow.
+  * Generative AI may not be used for any assignments; students are expected to be able to explain their code if asked.
+  * Students may only work in groups for the final project.
+  * If a student plagarises or uses generative AI, they will recieve no credit for assignment and recieve an immediate NP at the instructor's discretion.
+* Late work will not be accepted, however, we're flexible with extensions (reach out!).
+* If you need any accommodations, please contact the course staff via a private Ed post.
+* **This Decal is a space for everyone.** Cal Hacks is dedicated to providing a harassment-free experience for everyone and we do not tolerate harassment of participants in any form.
+
+## Grading
+
+**Attendance (70%)**: students will be offered two drops. Students must attend the first session, otherwise, they'll be dropped.
+
+**Final project (30%)**: projects will be graded on creativity, ingenuity, and technical skill.
+
+To pass the class, you will need to earn a grade of 70% or more. This course is fast-paced and highly cumulative. Your success will depend on your active and consistent participation. However, we understand that emergencies and personal matters do come up.
+
+If you have an extenuating circumstances and have used up your drops, please reach out via a private Ed post.
+
+## Closing message
+
+We look forward to having you in this class! And we can't wait to see what you make.
+
+Reach out if at any time you need help, we're always here for you.
