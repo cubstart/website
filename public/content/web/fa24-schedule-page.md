@@ -37,7 +37,7 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 
 **Week 4 (27th February):** making API calls from our personal website.
 
-**Week 5 (6th March):** building a chat app with Socket.io.
+**Week 5 (6th March):** building a chat app with Socket.io. [lecture may be canceled due to CS70 midterm, TBC]
 
 **Week 6 (13th March):** customizing our chat apps, with CSS & JavaScript (Part 1).
 
