@@ -67,7 +67,9 @@ If you have an extenuating circumstance and have used up your unexcused absences
 The weekly homeworks are mini-projects that have a detailed, step-by-step spec for you to follow. You have **2 homework drops** in total which do not impact your grade. Any additional incomplete homeworks will result in a NP. Homeworks are weighted equally.
 
 **iOS**: 
-There will be no drops for homeworks or mini-projects. In the circumstance that you need additional time to complete, please ask us for an extension on Ed.
+You have **10** slip days over the course of the semester. Please use them sparingly and only in emergency circumstances as we will not be granting extensions. 
+
+For students with DSP accomodations, extensions are permitted if you have used up all your slip days. Please request an extension on Ed as a private post. 
 
 ## Final Project
 

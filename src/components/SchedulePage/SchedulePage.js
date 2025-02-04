@@ -24,7 +24,6 @@ function SchedulePage(props) {
         <div className="header">
             <h1>CS 198-075/750: Introduction to Building Apps</h1>
             <h2>UC Berkeley | Spring 2025</h2>
-            <p style={{"color": "red"}}><strong>🚧 UNDER CONSTRUCTION 🚧</strong></p>
         </div>
         <div class="wrapper">
         <div class="tabs">
