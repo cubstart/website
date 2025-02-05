@@ -61,7 +61,7 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 * You can get conceptual help, but you must not submit code from other sources, such as other students or Stack Overflow.
   * Generative AI may not be used for any assignments; students are expected to be able to explain their code if asked.
   * Students may only work in groups for the final project.
-  * If a student plagarises or uses generative AI, they will receive no credit for assignment and receive an immediate NP at the instructor's discretion.
+  * If a student plagiarised or uses generative AI, they will receive no credit for assignment and receive an immediate NP at the instructor's discretion.
 * Late work will not be accepted, however, we're flexible with extensions (reach out!).
 * If you need any accommodations, please contact the course staff via a private Ed post.
 * **This Decal is a space for everyone.** Cal Hacks is dedicated to providing a harassment-free experience for everyone and we do not tolerate harassment of participants in any form.
