@@ -11,7 +11,7 @@ Join the [Ed](https://edstem.org/us/join/3yRXMk) and [Gradescope](https://www.gr
 
 | Week | Lecture | Lab Section | Homework/Project |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| 1    | Motivation, Git, & Swift [Slides](https://drive.google.com/file/d/1VsOVL9mI9SDuBELDqQjDccoIQzvQETwg/view?usp=sharing) [Recording](https://youtu.be/isgPO9ozsoM?feature=shared) | [Discussion 1](https://drive.google.com/file/d/100QwFKd0E20d30WpAarrHBWJnvaAxLWg/view?usp=sharing) | [Homework 1](https://calhacks.notion.site/HW-1-1908573481db803b91c0eb3e0bbc4b32?pvs=4) |
+| 1    | Motivation, Git, & Swift [Slides](https://drive.google.com/file/d/1VsOVL9mI9SDuBELDqQjDccoIQzvQETwg/view?usp=sharing) [Recording](https://youtu.be/isgPO9ozsoM?feature=shared) | [Discussion 1](https://drive.google.com/file/d/1MlzNvjniJauPjgHGFyrBEcn4PxGLHr0g/view?usp=sharing) | [Homework 1](https://calhacks.notion.site/HW-1-1908573481db803b91c0eb3e0bbc4b32?pvs=4) |
 | 2    | More Swift & SwiftUI Fundamentals | Discussion 2 | Mini Project 1: CalFinance |
 | 3    | Closures, Dataflow, & Lists | Discussion 3 | Mini Project 1: CalFinance |
 | 4    | Observation and MVVM | Discussion 4 | |
