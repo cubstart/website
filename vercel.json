@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/ai2025",
+      "destination": "https://gist.github.com/sampoder/ba9467a7cecae7b322124a0ac3f28d7d",
+      "permanent": false
+    }
+  ]
+}
