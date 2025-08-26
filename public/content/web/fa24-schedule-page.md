@@ -1,3 +1,5 @@
+**🚧 UNDER CONSTRUCTION 🚧**
+
 _**Spring 2025:** Every Thursday from 7pm to 9pm in [Soda 306](https://coeesg.wpengine.com/av-facilities-and-services-by-room/soda306/)._
 
 Cubstart is a Decal offered by Hackathons @ Berkeley (the team behind Cal Hacks). It's an introduction to building fullstack web applications. By the end of the course, you'll:

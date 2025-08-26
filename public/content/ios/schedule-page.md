@@ -1,13 +1,13 @@
-**Lecture**: Tuesdays 5:00pm-6:00pm @ Anthro/Art Practice Bldg 160
+**Lecture**: Mondays 12:00pm-1:00pm @ Soda 306
 
-**Discussion**: Thursdays 5:00pm-6:00pm @ Soda 306
+**Discussion**: Fridays 11:30am-12:30pm @ Soda 306
 
-**OH**: Thursdays 6:00pm-7:00pm @ Soda 306 
+**OH**: Mondays 1:00pm-2:00pm @ Soda 306 
 
-**Instruction begins on the week of February 3. First lecture is 2/4. First discussion is 2/6.**
+**Instruction begins on the week of 9/8. First lecture is 9/8. First discussion is 9/12.**
 
 ## Announcements
-Join the [Ed](https://edstem.org/us/join/3yRXMk) and [Gradescope](https://www.gradescope.com) with code **R7GDNK**.
+Join the [Ed](https://edstem.org/us/join/nCUdA6) and [Gradescope](https://www.gradescope.com) with code **B37K7R**.
 
 | Week | Lecture | Lab Section | Homework/Project |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |

@@ -32,7 +32,7 @@ function FAQPage(props) {
     <label className="accordion__item">
       <input type="checkbox" name="accordion"/>
       <div className="accordion__title">How do I apply?</div>
-      <div className="accordion__content">Go to your CalCentral Enrollment Center and search <strong>29552</strong> for the Web Track (COMPSCI 198-750) OR <strong>29540</strong> for the iOS Track (COMPSCI 198-075).</div>
+      <div className="accordion__content">Go to your CalCentral Enrollment Center and search <strong>30193</strong> for the Web Track (COMPSCI 198-750) OR <strong>30192</strong> for the iOS Track (COMPSCI 198-075).</div>
     </label>
     <label className="accordion__item">
       <input type="checkbox" name="accordion"/>
