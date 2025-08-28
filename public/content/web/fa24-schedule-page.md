@@ -1,6 +1,10 @@
-**🚧 UNDER CONSTRUCTION 🚧**
+_**Fall 2025:** 
+**Lecture**: Tuesday 6:30pm-8pm @ [SOCS 20](https://www.berkeley.edu/map/social-sciences-building/)._
 
-_**Spring 2025:** Every Thursday from 7pm to 9pm in [Soda 306](https://coeesg.wpengine.com/av-facilities-and-services-by-room/soda306/)._
+**Instruction begins on the week of 9/8. First lecture is Tuesday 9/9.**
+
+## Announcements
+Join the [Ed](https://edstem.org/us/join/7TP6cS) and [Gradescope](https://www.gradescope.com) with code **7XN55E**.
 
 Cubstart is a Decal offered by Hackathons @ Berkeley (the team behind Cal Hacks). It's an introduction to building fullstack web applications. By the end of the course, you'll:
 
@@ -17,7 +21,7 @@ The last four weeks will be dedicated to your final project, which is ideating a
 
 ## Communication
 
-All students should join the class' Ed Discussion: [edstem.org/us/join/QBybhC](https://edstem.org/us/join/QBybhC). We encourage you to make your posts public as other students may have similar questions. If you need to contact us about a private matter, please make a private Ed post.
+All students should join the class' [Ed Discussion](https://edstem.org/us/join/7TP6cS). We encourage you to make your posts public as other students may have similar questions. If you need to contact us about a private matter, please make a private Ed post.
 
 ## Submissions
 
