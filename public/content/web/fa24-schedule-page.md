@@ -1,4 +1,4 @@
-_**Fall 2025:** 
+**Fall 2025:** 
 
 **Lecture**: Tuesday 6:30pm-8pm @ [SOCS 20](https://www.berkeley.edu/map/social-sciences-building/)._
 
