@@ -36,31 +36,33 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 
 ## Calendar
 
-**Week 1 (6th February):** building a personal website with HTML.
+**(Tentative)**
 
-**Week 2 (13th February):** styling our personal websites using CSS.
+**Week 1 (9th September):** building a personal website with HTML.
 
-**Week 3 (20th February):** making our personal websites move with JavaScript. 
+**Week 2 (16th September):** styling our personal websites using CSS.
 
-**Week 4 (27th February):** making API calls from our personal website.
+**Week 3 (23th September):** making our personal websites move with JavaScript. 
 
-**Week 5 (6th March):** building a chat app with Socket.io. [lecture may be canceled due to CS70 midterm, TBC]
+**Week 4 (30th September):** making API calls from our personal website.
 
-**Week 6 (13th March):** customizing our chat apps, with CSS & JavaScript (Part 1).
+**Week 5 (7th October):** building a chat app with Socket.io. [lecture may be canceled due to CS70 midterm, TBC]
 
-**Week 7 (20th March):** customizing our chat apps, with CSS & JavaScript (Part 2).
+**Week 6 (14th October):** customizing our chat apps, with CSS & JavaScript (Part 1).
 
-**Week 8 (27th March):** saving our messages in a database.
+**Week 7 (21th October):** customizing our chat apps, with CSS & JavaScript (Part 2).
 
-**Week 9 (3rd April):** building a cookie clicker game with React.js
+**Week 8 (28th October):** saving our messages in a database.
 
-**Week 10 (10th April):** improving our cookie clicker games.
+**Week 9 (4th November):** building a cookie clicker game with React.js
 
-**Week 11 (17th April):** final project team formation and ideation. 
+**Week 10 (11th November):** improving our cookie clicker games.
 
-**Week 12 (24th April):** final project worksession.
+**Week 11 (18th November):** final project team formation and ideation. 
 
-**Week 13 (1st May):** final project worksession.
+**Week 12 (25th November):** final project worksession.
+
+**Week 13 (2nd December):** final project worksession.
 
 ## Policies
 
