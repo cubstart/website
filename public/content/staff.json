@@ -8,11 +8,11 @@
       "social": "@j_wongwiz"
     },
     {
-      "image": "https://res.cloudinary.com/netzero/image/upload/v1722987433/unnamed_by5why.jpg",
-      "name": "Oliver Carmont",
+      "image": "assets/staff/mei_cubstart.jpg",
+      "name": "Mei Cibulka",
       "title": "Web Lecturer",
-      "description": "Heyo! I'm Oliver, I'm a senior CS major. From Spain, share a love for travelling, and duh web dev 🖥️ Reach me at oliver@cubstart.com",
-      "social": "@oliver.cz"
+      "description": "HI! I'm Mei, a senior CS major here :) I like to read 📚🤓, find critters 🐿️, drink fruit tea 🧋, and I LOVE apples 🍎 (REAL apples not Apple ⬆) HMU about anything I love to chat... ",
+      "social": "@m3i.c6"
     },
     {
       "image": "assets/staff/kat.png",
@@ -34,64 +34,6 @@
       "title": "Web Lecturer",
       "description": "Hey there! I'm Sam, a second-year CS / Linguistics major. I enjoying making things and going on random public transit adventures. Going to be a fun year!",
       "social": "@sam_poder"
-    }
-  ],
-  "tas": [
-    {
-      "image": "assets/staff/kaashvi.jpg",
-      "name": "Kaashvi Agnihotri",
-      "title": "iOS TA",
-      "description": "Hi, I'm Kaashvi! I'm a 4th year CS Major, also pursuing DS and English Minors. You can find me drawing, playing video games, or overanalyzing mystery shows 💖 Looking forward to meeting everybody!",
-      "social": "@kashew_arts"
-    },
-    {
-      "image": "assets/staff/matthew.png",
-      "name": "Matthew Gerardi",
-      "title": "iOS TA",
-      "description": "Hi there! My name is Matthew and I'm a third year studying EECS. I love to play beach/indoor volleyball, pickleball, as well as electric guitar. Excited to meet you all and feel free to reach out to chat!",
-      "social": "@m.a.t.t_"
-    },
-    {
-      "image": "assets/staff/oindree.png",
-      "name": "Oindree Chatterjee",
-      "title": "Web TA",
-      "description": "Heyyy! I'm Oindree, a second-year EECS major. Aside from my love for web dev, I enjoy hiking, photography, and watching sunsets by the ocean 🌅 I'm excited to meet you all, so please reach out if you have questions or want to chat!",
-      "social": "@oindree.c"
-    },
-    {
-      "image": "assets/staff/jocelyn.png",
-      "name": "Jocelyn Yu",
-      "title": "Web TA",
-      "description": "Hi! I'm Jocelyn, a junior majoring in CS. In my free time, I enjoy reading, graphic designing, and playing the guitar. I’m excited to meet you all and please reach out if you have any questions!",
-      "social": "@jxcelynyu"
-    },
-    {
-      "image": "assets/staff/ahmed.png",
-      "name": "Ahmed Hugais",
-      "title": "Web TA",
-      "description": "Hi there! I'm Ahmed, a junior studying Computer Science from Yemen. I'm excited to embark on this journey with you as we dive into the fundamentals of web development. Outside of class, I enjoy working out, cooking, and going for walks. Feel free to reach out anytime about anything—I'd be happy to chat!",
-      "social": "@ahmed_hugais"
-    },
-    {
-      "image": "assets/staff/abhi.png",
-      "name": "Abhiram Chennupati",
-      "title": "iOS TA",
-      "description": "Hi, my name is Abhi. I'm a rising Junior majoring in CS here at Cal, but I'm originally from Georgia. I love outdoor activities, reading, and playing with my cat Sesame. Look forward to meeting you all!",
-      "social": ""
-    },
-    {
-      "image": "assets/staff/isha.png",
-      "name": "Isha Tailor",
-      "title": "iOS TA",
-      "description": "Hi guys! I'm Isha, a second-year from the Bay Area. I like reading, trying new food and coffee places, and practicing taekwondo in my free time. Feel free to contact me with anything!",
-      "social": "@isha_tailor"
-    },
-    {
-      "image": "assets/staff/amber.jpg",
-      "name": "Amber Wang",
-      "title": "Web TA",
-      "description": "Hey y'all! I'm Amber, a second-year CS student from LA. I like playing video games and getting free food. Down to grab a smoothie or smth if you want to talk :)))",
-      "social": "@amberwang002"
     }
   ],
   "archives": [
