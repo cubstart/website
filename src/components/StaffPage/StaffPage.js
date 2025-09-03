@@ -15,15 +15,6 @@ function StaffPage() {
             "social": ""
           }
         ],
-        "tas": [
-          {
-            "image": "",
-            "name": "",
-            "title": "",
-            "description": "",
-            "social": ""
-          }
-        ],
         "archives": [
           {
             "image": "",
@@ -49,14 +40,6 @@ function StaffPage() {
         </div>
         <div className="cards-wrapper">
         {staffInfo.lecturers.map((staff) => <StaffCard content={staff}/>)}
-        </div>
-        <br/>
-
-        <div className="header">
-        <h1>Teaching Assistants</h1>
-        </div>
-        <div className="cards-wrapper">
-        {staffInfo.tas.map((staff) => <StaffCard content={staff}/>)}
         </div>
         <br/>
       
