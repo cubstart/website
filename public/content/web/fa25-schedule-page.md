@@ -1,6 +1,6 @@
 **Fall 2025:** 
 
-**Lecture**: Tuesday 6:30pm-8pm @ [SOCS 20](https://www.berkeley.edu/map/social-sciences-building/)._
+**Lecture**: Tuesday 6:30pm-8pm @ [SOCS 20](https://www.berkeley.edu/map/social-sciences-building/).
 
 **Instruction begins on the week of 9/8. First lecture is Tuesday 9/9.**
 
