@@ -12,7 +12,7 @@ function SchedulePage(props) {
         .then((res) => res.text())
         .then((text) => setiOS(text));
 
-        fetch("content/web/fa24-schedule-page.md")
+        fetch("content/web/fa25-schedule-page.md")
         .then((res) => res.text())
         .then((text) => setWeb(text));
 
