@@ -37,6 +37,9 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 * All students are expected to follow the Berkeley Honour Code: _"As a member of the UC Berkeley community, I act with honesty, integrity, and respect for others.”_
 * Late work will not be accepted, however, we're flexible with extensions (reach out!).
 * If you need any accommodations, please contact the course staff via a private Ed post.
+* **LLM Usage Policy**
+* * When using LLMs (such as ChatGPT) we encourage you to be intentional about your usage. You may use them as a **learning tool** to support your understanding. All work you submit must reflect your own knowledge. If you aren’t able to talk us through your work, we reserve the right to assign a **zero** for that assignment.
+* * We will do **random check-ins** during class, where you will be asked to explain and demonstrate your understanding of the code you submitted.
 * **This Decal is a space for everyone.** Cal Hacks is dedicated to providing a harassment-free experience for everyone and we do not tolerate harassment of participants in any form.
 
 ## Grading
