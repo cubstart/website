@@ -17,15 +17,15 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 
 |Date | Week | Lecture | Homework/Project                  |
 |-----|------|---------|-----------------------------------|
-| September 9 | 1    | Introduction to HTML and the Web [Slides](https://docs.google.com/presentation/d/1yn-vazOitq1sv8bdhDhS2NwQwJYMVNlrwgFbEfr30VM/edit?usp=sharing) | HW 1: HTML Basics |
-| September 16 | 2    | CSS Basics and Browser Developer Tools [Slides](https://docs.google.com/presentation/d/1jca2ANy5hidaWA8h_0QcvY_biS4LpiAavqL01NDH9Mk/edit?usp=sharing) | HW 2: Personal Portfolio |
-| September 23 | 3    | Javascript Basics [Slides](https://docs.google.com/presentation/d/1sJccnIQNGRovMVt_jmMAsgpSYTNAzw8X3e-uQCR8R74/edit?usp=sharing)| HW 3: JavaScript Playground |
-| September 30 | 4    | Intro to APIs [Slides](https://docs.google.com/presentation/d/1QyL4odpId0gzcFZ083tsXG-40SpmlIRPmPzA1JWBeAI/edit?usp=sharing) | HW 4: Deployment |
-| October 7 | 5    | APIs, Promises, & Fetch() [Slides](https://docs.google.com/presentation/d/19D1FFOfUj_Tb7Zr-IzlOHtQ8Io_86loSJCKtQt-UuJg/edit?usp=sharing)| HW 5: OpenWeatherMap API|
-| October 14 | 6    | Express & NodeJS [Slides](https://docs.google.com/presentation/d/1URRoR4jriF6frufPbL48j0KtExJ9R6M9G7vRcq7Fnck/edit?usp=sharing) | HW 6: Quizlet-ish Part 1 |
-| October 21 | 7    | Express & MongoDB [Slides](https://docs.google.com/presentation/d/1Xv5Ma74qOGWoay5gcZWTxBZ8f1VdD8etWbcoy12bsdQ/edit?usp=sharing) | HW 7: Quizlet-ish Part 2 |
+| September 9 | 1    | Introduction to HTML and the Web [Slides](https://docs.google.com/presentation/d/1qmC133eIjVbQ2ZmXMz6ygrCZ-hB5wdlDDGWhOyWmg00/edit?usp=sharing) | HW 1: HTML Basics |
+| September 16 | 2    | CSS Basics and Browser Developer Tools | HW 2: Personal Portfolio |
+| September 23 | 3    | Javascript Basics | HW 3: JavaScript Playground |
+| September 30 | 4    | Intro to APIs | HW 4: Deployment |
+| October 7 | 5    | APIs, Promises, & Fetch() | HW 5: OpenWeatherMap API|
+| October 14 | 6    | Express & NodeJS | HW 6: Quizlet-ish Part 1 |
+| October 21 | 7    | Express & MongoDB | HW 7: Quizlet-ish Part 2 |
 | October 28 | 8    | MORE BACKEND (TBD) | HW 8: Team Formation |
-| November 4 | 9    | Intro to React [Slides](https://docs.google.com/presentation/d/1gMu0lSc0qlvKddhwuDV1H-7AUTOlaqQCLJfM8iHFbNo/edit?usp=sharing) | HW 9: Social Media Website (Optional) |
+| November 4 | 9    | Intro to React |
 | November 11 | 10   | Lecture Canceled (Veterans Day) | Final Project Checkpoint |
 | November 18 | 11   | MORE REACT (TBD) | Final Project|
 | November 25 | 12   | (optional) Review session | Prep for Final Project Demo Day |
