@@ -45,11 +45,23 @@ Labs (called discussions for Cubstart iOS) are a fun way to learn and practice t
 
 ## Grading Breakdown
 
+**Web**:
+
 | **Weight**  | **Assignment**                          |
 | ----------- | --------------------------------------- |
 | 20%         | Attendance                              |
 | 30%         | Weekly Homeworks                        |
 | 50%         | Final Project                           |
+
+**iOS**:
+| **Weight**  | **Assignment**                          |
+| ----------- | --------------------------------------- |
+| 10%         | Lecture Participation                   |
+| 10%         | Discussion Check-Offs                   |
+| 30%         | Mid-Semester Project                    |
+| 10%         | Final Project (First Check In)          |
+| 10%         | Final Project (Second Check In)         |
+| 30%         | Final Project (Project Specifications)  |
 
 To earn a P, you will need >= 70%. This course is fast-paced and highly cumulative. Your success will depend on your active and consistent participation. However, we understand that emergencies and personal matters do come up.
 
@@ -59,9 +71,9 @@ To earn a P, you will need >= 70%. This course is fast-paced and highly cumulati
 
 If you have an extenuating circumstance and have used up your unexcused absences, please fill out our Excused Absences form. Your grade will not be impacted by the first two unexcused absences, nor by any excused absences.
 
-**iOS**: You are allowed up to **2 absences across lectures and discussions each respectively**.
+**iOS**: If you miss more than **2 unexcused** lecture **OR** **2 unexcused** discussions then it is an **automatic NP**. 
 
-If you have used up your 2 respective absences, then please fill out our Excused Absences Form.
+Attendance will be counted via participation in PollEVs in lectures and check offs in Discussions. A missed lecture PollEV or discussion check off will be counted as **unexcused**.
 
 ## Homeworks
 
@@ -69,9 +81,11 @@ If you have used up your 2 respective absences, then please fill out our Excused
 The weekly homeworks are mini-projects that have a detailed, step-by-step spec for you to follow. You have **2 homework drops** in total which do not impact your grade. Any additional incomplete homeworks will result in a NP. Homeworks are weighted equally.
 
 **iOS**: 
-You have **10** slip days over the course of the semester. Please use them sparingly and only in emergency circumstances as we will not be granting extensions. 
+For assignments, there will be weekly discussion assignments released after the lecture of the week and due on respective discussion on Friday. The assignments are designed to be completed asynchronously throughout the week and be checked off during discussion. 
 
-For students with DSP accomodations, extensions are permitted if you have used up all your slip days. Please request an extension on Ed as a private post. 
+We will also have a Mid-Semester Project where you will be working on an app tying up all the concepts taught so far in the past four weeks. 
+
+**There will be no slip days or extensions.** We understand that you might have extenuating circumstances which may hinder your ability to finish the assignments on time. If so, please create a private Ed post describing the circumstance, and we will approve on a case-by-case basis. 
 
 ## Final Project
 
