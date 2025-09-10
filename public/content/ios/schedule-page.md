@@ -11,7 +11,7 @@ Join the [Ed](https://edstem.org/us/join/nCUdA6) and [Gradescope](https://www.gr
 
 | Week | Lecture | Lab Section | Homework/Project |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| 1    | Motivation, Git, & Swift [Slides](https://drive.google.com/file/d/1aneAc_kybEO3vr80j4dsH05RoZWBBNT0/view?usp=sharing) | Discussion 1 | [Discussion 1 Assignment](https://www.notion.so/calhacks/Discussion-1-1de8573481db80fd8626f78bff141284?source=copy_link) |
+| 1    | Motivation, Git, & Swift [Slides](https://drive.google.com/file/d/1aneAc_kybEO3vr80j4dsH05RoZWBBNT0/view?usp=sharing) [Recording](https://youtu.be/M3a9NTFBfzo) | Discussion 1 | [Discussion 1 Assignment](https://www.notion.so/calhacks/Discussion-1-1de8573481db80fd8626f78bff141284?source=copy_link) |
 | 2    | More Swift & SwiftUI Fundamentals | Discussion 2 | Discussion 2 Assignment |
 | 3    | Closures, Dataflow, & Lists | Discussion 3 | Discussion 3 Assignment |
 | 4    | Observation and MVVM | Discussion 4  | Discussion 4 Assignment Mid-Semester Project |
