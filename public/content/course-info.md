@@ -1,10 +1,10 @@
 **Course Designation:** CS 198-075 (iOS Track), CS 198-750 (Web Track)
 
-**Facilitators:** Justin Wong, Sam Poder, Dylan Dinh-lan Chhum
+**Facilitators:** Justin Wong, Sam Poder, Dylan Dinh-lan Chhum, Mei Cibulka, Ethan Tam
 
-**EECS Dept. Sponsor:** Justin Yokota
+**EECS Dept. Sponsor:** Dan Garcia
 
-**Course Catalog:** Spring 2025
+**Course Catalog:** Fall 2025
 
 **Contact:** team@cubstart.com
 
@@ -14,7 +14,7 @@ Central to many aspects of software engineering, full stack development using mo
 
 ## Course Material
 
-The course content is split into lectures, labs, homeworks, and a final project. Your final project will be in teams of up to 4, so you can team up with friends or find teammates in lab and lecture. We will also have an option for random groupings for those who don't have groups.
+The course content is split into lectures, homeworks, and a final project. Your final project will be in teams of up to 4, so you can team up with friends or find teammates in lecture. We will also have an option for random groupings for those who don't have groups.
 
 ## Course Requirements
 
@@ -32,9 +32,8 @@ The weekly lectures are intended to give an introduction to the contents covered
 
 ## Lab/Discussion
 
-Labs (called discussions for Cubstart iOS) are a fun way to learn and practice the content in a more hands-on way! We have all sorts of exciting exercises for you to make your own demos and small apps. They also serve as a means of introducing the homework assignment (that was assigned the previous week) for those who are struggling to grasp certain concepts or haven't gotten around to doing the assigned homework. 
-
-**Web & iOS**: The **first hour of lab/discussion is required**. The second half of lab/discussion serves as office hours / homework party and is optional, but highly recommended for those new to programming.
+Discussions (for Cubstart iOS) are a fun way to learn and practice the content in a more hands-on way! We have all sorts of exciting exercises for you to make your own demos and small apps. They also serve as a means of introducing the homework assignment (that was assigned the previous week) for those who are struggling to grasp certain concepts or haven't gotten around to doing the assigned homework. 
+The **first hour of lab/discussion is required**. The second half of lab/discussion serves as office hours / homework party and is optional, but highly recommended for those new to programming.
 
 ## Learning Goals
 - Achieving full-stack web development or iOS development proficiency
@@ -67,7 +66,7 @@ To earn a P, you will need >= 70%. This course is fast-paced and highly cumulati
 
 ## Attendance
 
-**Web**: You are allowed up to **4 unexcused absences across lectures and labs**.
+**Web**: You are allowed up to **4 unexcused absences across lectures**.
 
 If you have an extenuating circumstance and have used up your unexcused absences, please fill out our Excused Absences form. Your grade will not be impacted by the first two unexcused absences, nor by any excused absences.
 
