@@ -18,7 +18,7 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 |Date | Week | Lecture | Homework/Project                  |
 |-----|------|---------|-----------------------------------|
 | September 9 | 1    | Introduction to HTML and the Web [Slides](https://docs.google.com/presentation/d/1l-ISUrlo-cAzdg9_B5k09LJBMFOqoE57kL4sdRx8H4g/edit?usp=sharing) | [HW 1: HTML Basics](#/hw/web/hw1) |
-| September 16 | 2    | CSS Basics and Browser Developer Tools [Slides](https://docs.google.com/presentation/d/1n0vKYdWUBM4ow5y0pob-oCuZulmmO03000Sn5TaDN4o/edit?usp=sharing) | HW 2: Personal Portfolio |
+| September 16 | 2    | CSS Basics and Browser Developer Tools [Slides](https://docs.google.com/presentation/d/1n0vKYdWUBM4ow5y0pob-oCuZulmmO03000Sn5TaDN4o/edit?usp=sharing) | [HW 2: Personal Portfolio](#/hw/web/hw2) |
 | September 23 | 3    | Javascript Basics | HW 3: JavaScript Playground |
 | September 30 | 4    | Intro to APIs | HW 4: Deployment |
 | October 7 | 5    | APIs, Promises, & Fetch() | HW 5: OpenWeatherMap API|
