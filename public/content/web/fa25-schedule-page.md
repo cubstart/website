@@ -44,9 +44,14 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 
 ## Grading
 
-**Attendance (70%)**: students will be offered two drops. Students must attend the first session, otherwise, they'll be dropped.
+| **Weight**  | **Assignment**                          |
+| ----------- | --------------------------------------- |
+| 20%         | Attendance                              |
+| 30%         | Weekly Homeworks                        |
+| 50%         | Final Project                           |
 
-**Final project (30%)**: projects will be graded on creativity, ingenuity, and technical skill.
+Students will be offered two drops. Students must attend the first session, otherwise, they'll be dropped.
+Projects will be graded on creativity, ingenuity, and technical skill.
 
 To pass the class, you will need to earn a grade of 70% or more. This course is fast-paced and highly cumulative. Your success will depend on your active and consistent participation. However, we understand that emergencies and personal matters do come up.
 
