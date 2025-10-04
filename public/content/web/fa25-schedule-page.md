@@ -20,14 +20,14 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 | September 9 | 1    | Introduction to HTML and the Web [Slides](https://docs.google.com/presentation/d/1l-ISUrlo-cAzdg9_B5k09LJBMFOqoE57kL4sdRx8H4g/edit?usp=sharing) | [HW 1: HTML Basics](#/hw/web/hw1) |
 | September 16 | 2    | CSS Basics and Browser Developer Tools [Slides](https://docs.google.com/presentation/d/1n0vKYdWUBM4ow5y0pob-oCuZulmmO03000Sn5TaDN4o/edit?usp=sharing) | [HW 2: Personal Portfolio](#/hw/web/hw2) |
 | September 23 | 3    | Javascript Basics [Slides](https://docs.google.com/presentation/d/1yCUURZc_DZH-Jm3dqIXFG1Dfd2VgeOpYLpTTECA4xiw/edit?usp=sharing) | [HW 3: JavaScript Playground](#/hw/web/hw3) |
-| September 30 | 4    | Intro to APIs | HW 4: Deployment |
-| October 7 | 5    | APIs, Promises, & Fetch() | HW 5: OpenWeatherMap API|
-| October 14 | 6    | Express & NodeJS | HW 6: Quizlet-ish Part 1 |
-| October 21 | 7    | Express & MongoDB | HW 7: Quizlet-ish Part 2 |
-| October 28 | 8    | MORE BACKEND (TBD) | HW 8: Team Formation |
-| November 4 | 9    | Intro to React |
+| September 30 | 4    | No lecture | No homework |
+| October 7 | 5    | Intro to APIs | HW 4: Deployment |
+| October 14 | 6    | APIs, Promises, & Fetch() | HW 5: OpenWeatherMap API|
+| October 21 | 7    | Express & NodeJS | HW 6: Quizlet-ish Part 1 |
+| October 28 | 8    | Express & MongoDB | HW 7: Quizlet-ish Part 2 |
+| November 4 | 9    | MORE BACKEND (TBD) | HW 8: Team Formation |
 | November 11 | 10   | Lecture Canceled (Veterans Day) | Final Project Checkpoint |
-| November 18 | 11   | MORE REACT (TBD) | Final Project|
+| November 18 | 11   | Intro to React | (Optional) HW 9: Social Media Website|
 | November 25 | 12   | (optional) Review session | Prep for Final Project Demo Day |
 | December 2 | 13   | No Class | Prep for Final Project Demo Day |
 | December 9 | 14   | 🎉 Demo Day! @ Wozniak Lounge |  |
