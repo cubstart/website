@@ -22,7 +22,7 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 | September 23 | 3    | Javascript Basics [Slides](https://docs.google.com/presentation/d/1yCUURZc_DZH-Jm3dqIXFG1Dfd2VgeOpYLpTTECA4xiw/edit?usp=sharing) | [HW 3: JavaScript Playground](#/hw/web/hw3) |
 | September 30 | 4    | No lecture | No homework |
 | October 7 | 5    | Intro to APIs [Slides](https://docs.google.com/presentation/d/1QyL4odpId0gzcFZ083tsXG-40SpmlIRPmPzA1JWBeAI/edit?usp=sharing) | HW 4: Short Answer on Gradescope |
-| October 14 | 6    | APIs, Promises, & Fetch() | HW 5: OpenWeatherMap API|
+| October 14 | 6    | APIs, Promises, & Fetch() [Slides](https://docs.google.com/presentation/d/1e1WLy9OCCIBuPTcK0QYFjhzIvYcOEAzM9QdYU5pJn1U/edit?usp=sharing) | HW 5: OpenWeatherMap API|
 | October 21 | 7    | Express & NodeJS | HW 6: Quizlet-ish Part 1 |
 | October 28 | 8    | Express & MongoDB | HW 7: Quizlet-ish Part 2 |
 | November 4 | 9    | MORE BACKEND (TBD) | HW 8: Team Formation |
