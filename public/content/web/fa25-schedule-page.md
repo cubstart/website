@@ -23,7 +23,7 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 | September 30 | 4    | No lecture | No homework |
 | October 7 | 5    | Intro to APIs [Slides](https://docs.google.com/presentation/d/1QyL4odpId0gzcFZ083tsXG-40SpmlIRPmPzA1JWBeAI/edit?usp=sharing) | HW 4: Short Answer on Gradescope |
 | October 14 | 6    | APIs, Promises, & Fetch() [Slides](https://docs.google.com/presentation/d/1e1WLy9OCCIBuPTcK0QYFjhzIvYcOEAzM9QdYU5pJn1U/edit?usp=sharing) | [HW 5: OpenWeatherMap API](/#/hw/web/hw5)|
-| October 21 | 7    | Express & NodeJS | HW 6: Quizlet-ish Part 1 |
+| October 21 | 7    | Express & NodeJS [Slides](https://docs.google.com/presentation/d/1dE3DwQ0TRsU8Q3WvTUft2mmAzGPFh5bJ-1vQbDjmGeI/edit?usp=sharing) | HW 6: Quizlet-ish Part 1 |
 | October 28 | 8    | Express & MongoDB | HW 7: Quizlet-ish Part 2 |
 | November 4 | 9    | MORE BACKEND (TBD) | HW 8: Team Formation |
 | November 11 | 10   | Lecture Canceled (Veterans Day) | Final Project Checkpoint |
