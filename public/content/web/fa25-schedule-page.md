@@ -29,8 +29,9 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 | November 11 | 10   | No Lecture (Veterans Day) | Final Project Checkpoint |
 | November 18 | 11   | Intro to React | (Optional) HW 9: Social Media Website|
 | November 25 | 12   | (optional) Review session | Prep for Final Project Demo Day |
-| December 2 | 13   | No Class | Prep for Final Project Demo Day |
-| December 9 | 14   | 🎉 Demo Day! @ Wozniak Lounge |  |
+| December 2 | 13   | No Lecture | Prep for Final Project Demo Day |
+| December 9 | 14   | No Lecture | Prep for Final Project Demo Day |
+| **December 10** | 14   | 🎉 Demo Day! **3:30pm - 5pm @ Wozniak Lounge** |  |
 
 ## Policies
 
