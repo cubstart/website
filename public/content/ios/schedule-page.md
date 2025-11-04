@@ -18,7 +18,7 @@ Join the [Ed](https://edstem.org/us/join/nCUdA6) and [Gradescope](https://www.gr
 | 5    | Navigation & Presentation [Slides](https://drive.google.com/file/d/1bRlKbLVBPEDWUg5cTP9oGJQhIWBRxSf9/view?usp=sharing) [Recording](https://youtu.be/WsYK83ni1AU) | Discussion 5 | [Mid-Semester Project](https://calhacks.notion.site/Midsemester-Project-Class-Planner-2848573481db80f39700c0cc604f4676?source=copy_link) |
 | 6    | Animations [Slides](https://drive.google.com/file/d/1yLnxwlN3qElqJu7bFyyupX458LJCYmFm/view?usp=sharing) [Recording](https://youtu.be/mM8o-Us-f-4)| [Discussion 6](https://github.com/cubstart/Stickies) | Discussion 6 Assignment Mid-Semester Project |
 | 7    | Swift Concurrency & API Integration [Slides](https://drive.google.com/file/d/19kN4u6Q95mhvjbICp_xkNS2RULgkQrKK/view?usp=sharing) [Recording](https://youtu.be/Rpa2JP78QEo)| Discussion 7 | [Discussion 7 Assignment](https://calhacks.notion.site/Discussion-7-29d8573481db80fb8afad2fbec97ac08?pvs=74)|
-| 8    | SwiftData [Slides](https://drive.google.com/file/d/1bSY1q7RhMuDqebupvZvjgLIg7KswLA9f/view?usp=sharing) | Discussion 8 | Discussion 8 Assignment |
+| 8    | SwiftData [Slides](https://drive.google.com/file/d/1bSY1q7RhMuDqebupvZvjgLIg7KswLA9f/view?usp=sharing) [Recording](https://youtu.be/pSzhwil7_ZA) | Discussion 8 | Discussion 8 Assignment |
 | 9    | Firebase | Discussion 9 | Final Project |
 | 10   | 🔮 | | Final Project |
 | 11   | 🔮 | | Final Project |
