@@ -25,8 +25,8 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 | October 14 | 6    | APIs, Promises, & Fetch() [Slides](https://docs.google.com/presentation/d/1e1WLy9OCCIBuPTcK0QYFjhzIvYcOEAzM9QdYU5pJn1U/edit?usp=sharing) | [HW 5: OpenWeatherMap API](/#/hw/web/hw5)|
 | October 21 | 7    | Express & NodeJS [Slides](https://docs.google.com/presentation/d/1dE3DwQ0TRsU8Q3WvTUft2mmAzGPFh5bJ-1vQbDjmGeI/edit?usp=sharing) | [HW 6: Quizlet-ish Part 1](/#/hw/web/hw6) |
 | October 28 | 8    | Databases [Slides](https://docs.google.com/presentation/d/1GPlXVVRI5859c_A7mC4MxftpSB9pcATLnuy1mn818HM/edit?usp=sharing) | [HW 7: Quizlet-ish Part 2](#/hw/web/hw7) |
-| November 4 | 9    | MORE BACKEND (TBD) | HW 8: Team Formation |
-| November 11 | 10   | Lecture Canceled (Veterans Day) | Final Project Checkpoint |
+| November 4 | 9    | SQL [Slides](https://docs.google.com/presentation/d/1RPSGj63_-kTqvr0aJGwrWj3cylBYM-Gg4TO8pp9ZshE/edit?usp=sharing) | [HW 8: Team Formation](https://forms.gle/F1PhQTv6CiPbGxYU6) |
+| November 11 | 10   | No Lecture (Veterans Day) | Final Project Checkpoint |
 | November 18 | 11   | Intro to React | (Optional) HW 9: Social Media Website|
 | November 25 | 12   | (optional) Review session | Prep for Final Project Demo Day |
 | December 2 | 13   | No Class | Prep for Final Project Demo Day |
