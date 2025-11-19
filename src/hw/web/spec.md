@@ -12,7 +12,7 @@ For those with prior web dev experience, we encourage you to go above and beyond
 <br></br>
 
 ## Part 1: Final Project Checkpoint (Project Proposal + Design Mockup)
-**Deadline:** November 11
+**Deadline:** November 25
 
 **Grade:** 10 points
 
@@ -39,7 +39,7 @@ Come up with a design to demonstrate your project idea using any design tool you
 <br>
 
 ## Part 2: Final Project Development + Presentation
-<b>Deadline:</b> Demo Day! (Tuesday, December 10th 3-5pm @ Wozniak Lounge), 40 points
+<b>Deadline:</b> Demo Day! (Wednesday, December 10th 3:30-5pm @ Wozniak Lounge), 40 points
 
 On Demo Day, you will present your project to the class! Students will be split into cohorts and you will get the chance to view and share projects! **Prepare a 1.5 minute demo + presentation.** Please focus your demo and de-emphasize any slide deck or business pitch (although these are allowed). Walk us through a demo of your project, talk about how you created it, what technologies you used, what roadblocks you came across and how you solved them, what you could improve upon with more time, other functionalities that would be cool to implement, etc.
 
