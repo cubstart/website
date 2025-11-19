@@ -26,11 +26,11 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 | October 21 | 7    | Express & NodeJS [Slides](https://docs.google.com/presentation/d/1dE3DwQ0TRsU8Q3WvTUft2mmAzGPFh5bJ-1vQbDjmGeI/edit?usp=sharing) | [HW 6: Quizlet-ish Part 1](/#/hw/web/hw6) |
 | October 28 | 8    | Databases [Slides](https://docs.google.com/presentation/d/1GPlXVVRI5859c_A7mC4MxftpSB9pcATLnuy1mn818HM/edit?usp=sharing) | [HW 7: Quizlet-ish Part 2](#/hw/web/hw7) |
 | November 4 | 9    | SQL [Slides](https://docs.google.com/presentation/d/1RPSGj63_-kTqvr0aJGwrWj3cylBYM-Gg4TO8pp9ZshE/edit?usp=sharing) | [HW 8: Team Formation](https://forms.gle/F1PhQTv6CiPbGxYU6) |
-| November 11 | 10   | No Lecture (Veterans Day) | No homework, [Prep for Final Project Demo Day](#/hw/web/spec) |
-| November 18 | 11   | Intro to React [Slides](https://docs.google.com/presentation/d/1kqtUZjYYe4jhQXSkpO4UaysvzAxejRwOVG-8RDX4d5E/edit?usp=sharing) | (Optional) HW 9: Social Media Website|
-| November 25 | 12   | (optional) Review session | [Prep for Final Project](#/hw/web/spec) |
-| December 2 | 13   | No Lecture | [Prep for Final Project](#/hw/web/spec) |
-| December 9 | 14   | No Lecture | [Prep for Final Project](#/hw/web/spec) |
+| November 11 | 10   | No Lecture (Veterans Day) | No homework, [Prep for Final Project](/#/hw/web/spec) |
+| November 18 | 11   | Intro to React [Slides](https://docs.google.com/presentation/d/1kqtUZjYYe4jhQXSkpO4UaysvzAxejRwOVG-8RDX4d5E/edit?usp=sharing) | (Optional) [HW 8: Social Media Website](#/hw/web/hw8)|
+| November 25 | 12   | (optional) Review session | [Prep for Final Project](/#/hw/web/spec) |
+| December 2 | 13   | No Lecture | [Prep for Final Project](/#/hw/web/spec) |
+| December 9 | 14   | No Lecture | [Prep for Final Project](/#/hw/web/spec) |
 | **December 10** | 14   | 🎉 Demo Day! **3:30pm - 5pm @ Wozniak Lounge** |  |
 
 ## Policies
