@@ -1,10 +1,12 @@
 **Course Designation:** CS 198-075 (iOS Track), CS 198-750 (Web Track)
 
-**Facilitators:** Justin Wong, Sam Poder, Dylan Dinh-lan Chhum, Mei Cibulka, Ethan Tam
+**iOS Facilitators:** Justin Wong, Abby Li
+
+**Web Facilitators:** Mei Cibulka, Jessica Chiu, Mauricio Yeverino, Ethan Tam
 
 **EECS Dept. Sponsor:** Dan Garcia
 
-**Course Catalog:** Fall 2025
+**Course Catalog:** Spring 2026
 
 **Contact:** team@cubstart.com
 
@@ -28,12 +30,8 @@ If participating in the iOS track, you’ll need a MacBook with macOS 13.5 (Vent
 
 ## Lectures
 
-The weekly lectures are intended to give an introduction to the contents covered by the homework due the following week. The general structure will be a conceptual overview of the highlighted topics, use cases, and real-life examples. **Attendance is mandatory** and will be recorded.
+The weekly lectures are intended to give an introduction to the contents covered by the homework due the following weeks. The general structure will be a conceptual overview of the highlighted topics, use cases, and real-life examples. Lectures will be recorded and posted on [Youtube](https://www.youtube.com/@cubstartbyhackathonsatberkeley).
 
-## Lab/Discussion
-
-Discussions (for Cubstart iOS) are a fun way to learn and practice the content in a more hands-on way! We have all sorts of exciting exercises for you to make your own demos and small apps. They also serve as a means of introducing the homework assignment (that was assigned the previous week) for those who are struggling to grasp certain concepts or haven't gotten around to doing the assigned homework. 
-The **first hour of lab/discussion is required**. The second half of lab/discussion serves as office hours / homework party and is optional, but highly recommended for those new to programming.
 
 ## Learning Goals
 - Achieving full-stack web development or iOS development proficiency
@@ -62,17 +60,7 @@ The **first hour of lab/discussion is required**. The second half of lab/discuss
 | 10%         | Final Project (Second Check In)         |
 | 30%         | Final Project (Project Specifications)  |
 
-To earn a P, you will need >= 70%. This course is fast-paced and highly cumulative. Your success will depend on your active and consistent participation. However, we understand that emergencies and personal matters do come up.
-
-## Attendance
-
-**Web**: You are allowed up to **4 unexcused absences across lectures**.
-
-If you have an extenuating circumstance and have used up your unexcused absences, please fill out our Excused Absences form. Your grade will not be impacted by the first two unexcused absences, nor by any excused absences.
-
-**iOS**: If you miss more than **2 unexcused** lecture **OR** **2 unexcused** discussions then it is an **automatic NP**. 
-
-Attendance will be counted via participation in PollEVs in lectures and check offs in Discussions. A missed lecture PollEV or discussion check off will be counted as **unexcused**.
+To pass, you will need >= 70%. This course is fast-paced and highly cumulative. Your success will depend on your active and consistent participation. However, we understand that emergencies and personal matters do come up.
 
 ## Homeworks
 
