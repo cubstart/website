@@ -4,8 +4,10 @@
 
 **Instruction begins on the week of 3/2. First lecture is Wednesday 3/4.**
 
-## Announcements
-Join the [Ed](https://edstem.org/us/join/sSTJwY) and [Gradescope](https://www.gradescope.com) with code **WNK77J**.
+## Enrollment
+Join [Gradescope](https://www.gradescope.com) with code **WNK77J**.
+**Berkeley students**: Join the [Ed](https://edstem.org/us/join/sSTJwY).
+**non-Berkeley students**: Fill out [this form](https://forms.gle/fQV6pXzRH3Kkkxsm9) to be added manually to the Ed.
 
 ## Requirements
 
