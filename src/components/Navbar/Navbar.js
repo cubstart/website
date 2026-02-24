@@ -67,7 +67,7 @@ function Navbar() {
               </li>
              <li className="nav-item" style={{"marginTop":"-1px"}}>
               <a href="/#/enrollment-info"><button style={{"marginTop":"-20px", "borderRadius":"30px", "opacity":"1"}} className="nav-join-team-bttn">
-                  FA25 Enrollment Info
+                  SP26 Enrollment Info
             </button></a>
               </li>
               {/* <li className="nav-item">

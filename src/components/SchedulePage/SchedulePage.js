@@ -8,11 +8,11 @@ function SchedulePage(props) {
     const [web, setWeb] = useState("");
 
     useEffect(() => {
-        fetch("content/ios/schedule-page.md")
+        fetch("/content/ios/schedule-page.md")
         .then((res) => res.text())
         .then((text) => setiOS(text));
-
-        fetch("content/web/sp26-schedule-page.md")
+                
+        fetch("/content/web/sp26-schedule-page.md")
         .then((res) => res.text())
         .then((text) => setWeb(text));
 
@@ -23,7 +23,7 @@ function SchedulePage(props) {
     <div className="text-wrapper">
         <div className="header">
             <h1>CS 198-075/750: Introduction to Building Apps</h1>
-            <h2>UC Berkeley | Fall 2025</h2>
+            <h2>UC Berkeley | Spring 2026</h2>
         </div>
         <div class="wrapper">
         <div class="tabs">
