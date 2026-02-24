@@ -26,7 +26,7 @@ function EnrollmentInfoPage() {
       <br/>
 
       <div style={{ "display":"flex", "flexDirection":"row", "alignItems":"center"}}><h3 className="enrollment_header" style={{"color":"#3e9ec3", "marginRight":"10px",}}>Step 1: </h3><p style={{"marginTop":"19px"}}>
-        Join the <a style={{"cursor":"pointer", "borderBottom":"1px solid #3e9ec3", "fontWeight":"600",}} target="_blank" href="https://www.gradescope.com">Gradescope</a>with code WNK77J.</p>
+        Join the <a style={{"cursor":"pointer", "borderBottom":"1px solid #3e9ec3", "fontWeight":"600",}} target="_blank" href="https://www.gradescope.com">Gradescope</a> with code WNK77J.</p>
       </div>
       <div style={{ "display":"flex", "flexDirection":"row", "alignItems":"center"}}><h3 className="enrollment_header" style={{"color":"#3e9ec3", "marginRight":"10px",}}>Step 2a: </h3><p style={{"marginTop":"19px"}}>
         Berkeley students: Join the <a style={{"cursor":"pointer", "borderBottom":"1px solid #3e9ec3", "fontWeight":"600",}} target="_blank" href="https://edstem.org/us/join/sSTJwY">EdStem</a>.</p>
