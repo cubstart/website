@@ -1,13 +1,11 @@
-**Lecture**: Mondays 12:00pm-1:00pm @ Soda 306
+**Instruction begins on the week of 3/2. First lecture TBD.**
 
-**Discussion**: Fridays 11:30am-12:30pm @ Soda 306
+## Enrollment
+Join [Gradescope](https://www.gradescope.com) with code **RVY8G4**.
 
-**OH**: Mondays 1:00pm-2:00pm @ Soda 306 
+**Berkeley students**: Join the [Ed](https://edstem.org/us/join/frtQZn).
 
-**Instruction begins on the week of 9/8. First lecture is 9/8. First discussion is 9/12.**
-
-## Announcements
-Join the [Ed](https://edstem.org/us/join/nCUdA6) and [Gradescope](https://www.gradescope.com) with code **B37K7R**.
+**Non-Berkeley students**: Fill out [this form](https://forms.gle/fQV6pXzRH3Kkkxsm9) to be added manually to the Ed.
 
 | Week | Lecture | Lab Section | Homework/Project |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |

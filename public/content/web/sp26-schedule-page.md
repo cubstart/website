@@ -9,7 +9,7 @@ Join [Gradescope](https://www.gradescope.com) with code **WNK77J**.
 
 **Berkeley students**: Join the [Ed](https://edstem.org/us/join/sSTJwY).
 
-**non-Berkeley students**: Fill out [this form](https://forms.gle/fQV6pXzRH3Kkkxsm9) to be added manually to the Ed.
+**Non-Berkeley students**: Fill out [this form](https://forms.gle/fQV6pXzRH3Kkkxsm9) to be added manually to the Ed.
 
 ## Requirements
 
