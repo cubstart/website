@@ -8,13 +8,6 @@
       "social": "@j_wongwiz"
     },
     {
-      "image": "assets/staff/dylan.png",
-      "name": "Dylan Chhum",
-      "title": "iOS Lecturer",
-      "description": "Hi guys! I'm a senior EECS major here. I love fishing 🎣 and football 🏈 It's my last semester so I'm excited to give it my all!",
-      "social": "@chhum_bucket"
-    },
-    {
       "image": "assets/staff/mei_cubstart.jpg",
       "name": "Mei Cibulka",
       "title": "Web Lecturer",
@@ -29,18 +22,18 @@
       "social": "@ethan.tamm"
     },
     {
-      "image": "assets/staff/jessica.jpg",
-      "name": "Jessica Ng",
-      "title": "Web Lead",
-      "description": "Hi, I'm Jessica, a third-year CS major! You can usually find me reading, crocheting, or going on outdoorsy adventures. I'm super excited to meet everyone :)",
-      "social": "@jessican_1212"
+      "image": "assets/staff/mauricio.png",
+      "name": "Mauricio Yeverino",
+      "title": "Web Lecturer",
+      "description": "Hi guys Im a senior CS major. From Mexico 🇲🇽. Love dogs and cats. Instagram reels. Mbappe. Feel free to reach out!!!",
+      "social": "@mauricio_yeverino"
     },
     {
-      "image": "https://raw.githubusercontent.com/sampoder/pfp/03137b40b2c1794c2fccab796960e88a2f12f5bc/public/images/Screenshot%202024-07-27%20at%209.29.02%E2%80%AFAM.png",
-      "name": "Sam Poder",
+      "image": "assets/staff/jessica_chiu.png",
+      "name": "Jessica Chiu",
       "title": "Web Lecturer",
-      "description": "Hey there! I'm Sam, a second-year CS / Linguistics major. I enjoying making things and going on random public transit adventures. Going to be a fun year!",
-      "social": "@sam_poder"
+      "description": "Hey everyone!! I'm a freshman applied math major. I love thrifting and altering clothes 🪡 I also love music, especially punk, gothic rock, and edm 🎵 Reach out if you ever need anything!",
+      "social": "@jessicacchiu"
     }
   ],
   "archives": [
