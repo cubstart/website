@@ -182,13 +182,13 @@ function EnrollmentInfoPage() {
                     type="button"
                     aria-label="Copy iOS code"
                     style={styles.copyButton}
-                    onClick={() => copyCode('WNK77J')}
+                    onClick={() => copyCode('RVY8G4')}
                   >
                     📎
                   </button>
-                  <code style={styles.codeValue}>WNK77J</code>
+                  <code style={styles.codeValue}>RVY8G4</code>
                 </span>
-                {copiedCode === 'WNK77J' && <span style={styles.copiedText}>Copied</span>}
+                {copiedCode === 'RVY8G4' && <span style={styles.copiedText}>Copied</span>}
               </p>
               <p style={styles.codeLine}>
                 <span style={styles.codeLabel}>Web</span>
@@ -197,13 +197,13 @@ function EnrollmentInfoPage() {
                     type="button"
                     aria-label="Copy Web code"
                     style={styles.copyButton}
-                    onClick={() => copyCode('RVY8G4')}
+                    onClick={() => copyCode('WNK77J')}
                   >
                     📎
                   </button>
-                  <code style={styles.codeValue}>RVY8G4</code>
+                  <code style={styles.codeValue}>WNK77J</code>
                 </span>
-                {copiedCode === 'RVY8G4' && <span style={styles.copiedText}>Copied</span>}
+                {copiedCode === 'WNK77J' && <span style={styles.copiedText}>Copied</span>}
               </p>
             </div>
           </div>
