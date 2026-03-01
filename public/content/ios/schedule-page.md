@@ -1,4 +1,7 @@
-**Instruction begins on the week of 3/2. First lecture TBD.**
+**Instruction begins on the week of 3/2. The first lecture will be on Friday, 3/6 5-6 p.m. PST.**\
+**Live Lecture Zoom Link:** https://berkeley.zoom.us/j/97277396495.
+\
+Live lectures will reoccur every Friday, 5-6 p.m. PST. If you are unable to attend, we will post our recorded lectures on our[Youtube Channel](https://www.youtube.com/@cubstartbyhackathonsatberkeley). 
 
 ## Enrollment
 Join [Gradescope](https://www.gradescope.com) with code **RVY8G4**.
