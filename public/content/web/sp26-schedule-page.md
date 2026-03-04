@@ -21,17 +21,17 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 
 |Date | Week | Lecture | Homework/Project                  |
 |-----|------|---------|-----------------------------------|
-| March 4 | 1    | Introduction to HTML and the Web [Slides](https://docs.google.com/presentation/d/1l-ISUrlo-cAzdg9_B5k09LJBMFOqoE57kL4sdRx8H4g/edit?usp=sharing) | [HW 1: HTML Basics](#/hw/web/hw1) |
-| March 11 | 2    | CSS Basics and Browser Developer Tools [Slides](https://docs.google.com/presentation/d/1n0vKYdWUBM4ow5y0pob-oCuZulmmO03000Sn5TaDN4o/edit?usp=sharing) | [HW 2: Personal Portfolio](#/hw/web/hw2) |
-| March 18 | 3    | Javascript Basics [Slides](https://docs.google.com/presentation/d/1yCUURZc_DZH-Jm3dqIXFG1Dfd2VgeOpYLpTTECA4xiw/edit?usp=sharing) | [HW 3: JavaScript Playground](#/hw/web/hw3) |
+| March 4 | 1    | Introduction to HTML and the Web [Slides](https://docs.google.com/presentation/d/1204lPBGaJhhvtpErx0iz5FQWuXxIV7oF580s5cY-S_8/edit?usp=sharing) | [HW 1: HTML Basics](#/hw/web/hw1) |
+| March 11 | 2    | CSS Basics and Browser Developer Tools | HW 2: Personal Portfolio |
+| March 18 | 3    | Javascript Basics | HW 3: JavaScript Playground |
 | March 25 | 4    | No lecture | No homework |
-| April 1 | 5    | Intro to APIs [Slides](https://docs.google.com/presentation/d/1QyL4odpId0gzcFZ083tsXG-40SpmlIRPmPzA1JWBeAI/edit?usp=sharing) | HW 4: Short Answer on Gradescope |
-| April 8 | 6    | APIs, Promises, & Fetch() [Slides](https://docs.google.com/presentation/d/1e1WLy9OCCIBuPTcK0QYFjhzIvYcOEAzM9QdYU5pJn1U/edit?usp=sharing) | [HW 5: OpenWeatherMap API](/#/hw/web/hw5)|
-| April 15 | 7    | Express & NodeJS [Slides](https://docs.google.com/presentation/d/1dE3DwQ0TRsU8Q3WvTUft2mmAzGPFh5bJ-1vQbDjmGeI/edit?usp=sharing) | [HW 6: Quizlet-ish Part 1](/#/hw/web/hw6) |
-| April 22 | 8    | Databases [Slides](https://docs.google.com/presentation/d/1GPlXVVRI5859c_A7mC4MxftpSB9pcATLnuy1mn818HM/edit?usp=sharing) | [HW 7: Quizlet-ish Part 2](#/hw/web/hw7) |
-| April 29 | 9    | SQL [Slides](https://docs.google.com/presentation/d/1RPSGj63_-kTqvr0aJGwrWj3cylBYM-Gg4TO8pp9ZshE/edit?usp=sharing) | [Team Formation Google Form](https://forms.gle/F1PhQTv6CiPbGxYU6) |
-| May 6  | 10   | Intro to React [Slides](https://docs.google.com/presentation/d/1kqtUZjYYe4jhQXSkpO4UaysvzAxejRwOVG-8RDX4d5E/edit?usp=sharing) | [Prep for Final Project](/#/hw/web/spec)|
-| May 13 | 11   | No Lecture | [Prep for Final Project](/#/hw/web/spec) |
+| April 1 | 5    | Intro to APIs | HW 4: Short Answer on Gradescope |
+| April 8 | 6    | APIs, Promises, & Fetch() | HW 5: OpenWeatherMap API |
+| April 15 | 7    | Express & NodeJS | HW 6: Quizlet-ish Part 1 |
+| April 22 | 8    | Databases | HW 7: Quizlet-ish Part 2 |
+| April 29 | 9    | SQL | Team Formation Google Form |
+| May 6  | 10   | Intro to React | Prep for Final Project |
+| May 13 | 11   | No Lecture | Prep for Final Project |
 | **DATE TBD** | 12 | 🎉 Demo Day! **TBD** |  |
 
 ## Policies
