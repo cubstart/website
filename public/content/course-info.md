@@ -53,12 +53,10 @@ The weekly lectures are intended to give an introduction to the contents covered
 **iOS**:
 | **Weight**  | **Assignment**                          |
 | ----------- | --------------------------------------- |
-| 10%         | Lecture Participation                   |
-| 10%         | Discussion Check-Offs                   |
+| 25%         | Homeworks                               |
 | 30%         | Mid-Semester Project                    |
-| 10%         | Final Project (First Check In)          |
-| 10%         | Final Project (Second Check In)         |
-| 30%         | Final Project (Project Specifications)  |
+| 10%         | Final Project Checkpoint                |
+| 35%         | Final Project (Project Specifications)  |
 
 To pass, you will need >= 70%. This course is fast-paced and highly cumulative. Your success will depend on your active and consistent participation. However, we understand that emergencies and personal matters do come up.
 
@@ -68,11 +66,11 @@ To pass, you will need >= 70%. This course is fast-paced and highly cumulative. 
 The weekly homeworks are mini-projects that have a detailed, step-by-step spec for you to follow. You have **2 homework drops** in total which do not impact your grade. Any additional incomplete homeworks will result in a NP. Homeworks are weighted equally.
 
 **iOS**: 
-For assignments, there will be weekly discussion assignments released after the lecture of the week and due on respective discussion on Friday. The assignments are designed to be completed asynchronously throughout the week and be checked off during discussion. 
+For assignments, there will be weekly homework assignments released after the lecture of the week and due on the next Friday. The assignments are designed to be completed asynchronously throughout the week and submitted to Gradescope for grading. 
 
 We will also have a Mid-Semester Project where you will be working on an app tying up all the concepts taught so far in the past four weeks. 
 
-**There will be no slip days or extensions.** We understand that you might have extenuating circumstances which may hinder your ability to finish the assignments on time. If so, please create a private Ed post describing the circumstance, and we will approve on a case-by-case basis. 
+If you have extenuating circumstances which may hinder your ability to finish the assignments on time. If so, please create a private Ed post describing the circumstance, and we will approve on a case-by-case basis.
 
 ## Final Project
 
