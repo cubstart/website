@@ -9,7 +9,7 @@ Join [Gradescope](https://www.gradescope.com) with code **RVY8G4**.\
 
 | Week | Lecture | Homework/Project |
 | ---- | ------- | ---------------- |
-| 1    | Motivation, Git, & Swift [Slides](https://drive.google.com/file/d/14U0HvNXxUiqYt_rG7TrovU2PsQJkXeCo/view?usp=sharing) | Homework 1 |
+| 1    | Motivation, Git, & Swift [Slides](https://drive.google.com/file/d/14U0HvNXxUiqYt_rG7TrovU2PsQJkXeCo/view?usp=sharing) | [Homework 1](https://www.notion.so/calhacks/Homework-1-31a8573481db80cdae1be34cca3f7d76?source=copy_link) |
 | 2    | More Swift & SwiftUI Fundamentals | Homework 2 |
 | 3    | Closures, Dataflow, & Lists | Homework 3 |
 | 4    | Observation & MVVM | Homework 4 |
