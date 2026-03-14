@@ -10,7 +10,7 @@ Join [Gradescope](https://www.gradescope.com) with code **RVY8G4**.\
 | Week | Lecture | Homework/Project |
 | ---- | ------- | ---------------- |
 | 1    | Motivation, Git, & Swift [Slides](https://drive.google.com/file/d/14U0HvNXxUiqYt_rG7TrovU2PsQJkXeCo/view?usp=sharing) [Lecture](https://youtu.be/krm7DvdOMDo) | [Homework 1](https://www.notion.so/calhacks/Homework-1-31a8573481db80cdae1be34cca3f7d76?source=copy_link) |
-| 2    | More Swift & SwiftUI Fundamentals [Slides](https://drive.google.com/file/d/15RUkVrG4Bm-4g8huA6gQV58NGslIVODY/view?usp=share_link) | [Homework 2](https://calhacks.notion.site/Homework-2-3238573481db80d9a380cf2c6c15e88d?source=copy_link) |
+| 2    | More Swift & SwiftUI Fundamentals [Slides](https://drive.google.com/file/d/15RUkVrG4Bm-4g8huA6gQV58NGslIVODY/view?usp=share_link) [Recording](https://youtu.be/kAXofeaekaQ) | [Homework 2](https://calhacks.notion.site/Homework-2-3238573481db80d9a380cf2c6c15e88d?source=copy_link) |
 | 3    | Closures, Dataflow, & Lists | Homework 3 |
 | 4    | Observation & MVVM | Homework 4 |
 | 5    | Navigation & Presentation | Mid-Semester Project |
