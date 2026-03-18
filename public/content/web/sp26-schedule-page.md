@@ -23,7 +23,7 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 |-----|------|---------|-----------------------------------|
 | March 4 | 1    | Introduction to HTML and the Web [Slides](https://docs.google.com/presentation/d/1204lPBGaJhhvtpErx0iz5FQWuXxIV7oF580s5cY-S_8/edit?usp=sharing) | [HW 1: HTML Basics](#/hw/web/hw1) |
 | March 11 | 2    | CSS Basics and Browser Developer Tools [Slides](https://docs.google.com/presentation/d/1lMzTjV70RIocK75kZ6gSyVo5ArnPsZYKd7bvHAU0thg/edit?usp=sharing) | [HW 2: Personal Portfolio](#/hw/web/hw2) |
-| March 18 | 3    | Javascript Basics | HW 3: JavaScript Playground |
+| March 18 | 3    | Javascript Basics [Slides](https://docs.google.com/presentation/d/1MEV_9N75a9b0aBms4cofNr_qV_-7-ELfMe6B6dqYJLU/edit?usp=sharing) | [HW 3: JavaScript Playground](#/hw/web/hw3) |
 | March 25 | 4    | No lecture | No homework |
 | April 1 | 5    | Intro to APIs | HW 4: Short Answer on Gradescope |
 | April 8 | 6    | APIs, Promises, & Fetch() | HW 5: OpenWeatherMap API |
