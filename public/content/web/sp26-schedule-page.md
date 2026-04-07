@@ -26,12 +26,12 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 | March 18 | 3    | Javascript Basics [Slides](https://docs.google.com/presentation/d/1MEV_9N75a9b0aBms4cofNr_qV_-7-ELfMe6B6dqYJLU/edit?usp=sharing) | [HW 3: JavaScript Playground](#/hw/web/hw3) |
 | March 25 | 4    | No lecture | No homework |
 | April 1 | 5    | Intro to APIs [Slides](https://docs.google.com/presentation/d/1cx0eaacTrSjT0vk0XBx7TvUQc8SoTFN08Ev5t4WsTj0/edit?usp=sharing) | HW 4: Short Answer on Gradescope |
-| April 8 | 6    | APIs, Promises, & Fetch() | HW 5: OpenWeatherMap API |
-| April 15 | 7    | Express & NodeJS | HW 6: Quizlet-ish Part 1 |
-| April 22 | 8    | Databases | HW 7: Quizlet-ish Part 2 |
-| April 29 | 9    | SQL | Team Formation Google Form |
-| May 6  | 10   | Intro to React | Prep for Final Project |
-| May 13 | 11   | No Lecture | Prep for Final Project |
+| April 8 | 6    | No Lecture | No Homework |
+| April 15 | 7    | APIs, Promises, & Fetch() | HW 5: OpenWeatherMap API |
+| April 22 | 8    | Express & NodeJS | HW 6: Quizlet-ish Part 1 |
+| April 29 | 9    | Databases | HW 7: Quizlet-ish Part 2 |
+| May 6  | 10   | SQL | Team Formation Google Form |
+| May 13 | 11   | Intro to React | Prep for Final Project |
 | **DATE TBD** | 12 | 🎉 Demo Day! **TBD** |  |
 
 ## Policies
