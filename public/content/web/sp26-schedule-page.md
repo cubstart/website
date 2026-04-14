@@ -27,7 +27,7 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 | March 25 | 4    | No lecture | No homework |
 | April 1 | 5    | Intro to APIs [Slides](https://docs.google.com/presentation/d/1cx0eaacTrSjT0vk0XBx7TvUQc8SoTFN08Ev5t4WsTj0/edit?usp=sharing) | HW 4: Short Answer on Gradescope |
 | April 8 | 6    | No Lecture | No Homework |
-| April 15 | 7    | APIs, Promises, & Fetch() | HW 5: OpenWeatherMap API |
+| April 15 | 7    | APIs, Promises, & Fetch() [Slides](https://docs.google.com/presentation/d/1_H2uiaoFbWg_zSA6KiyceukdY5AI4N6dIeKsglMeUIU/edit?usp=sharing) | [HW 5: OpenWeatherMap API](#/hw/web/hw5) |
 | April 22 | 8    | Express & NodeJS | HW 6: Quizlet-ish Part 1 |
 | April 29 | 9    | Databases | HW 7: Quizlet-ish Part 2 |
 | May 6  | 10   | SQL | Team Formation Google Form |
