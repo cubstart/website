@@ -13,10 +13,10 @@ Join [Gradescope](https://www.gradescope.com) with code **RVY8G4**.\
 | 2    | More Swift & SwiftUI Fundamentals [Slides](https://drive.google.com/file/d/15RUkVrG4Bm-4g8huA6gQV58NGslIVODY/view?usp=share_link) [Recording](https://youtu.be/kAXofeaekaQ) | [Homework 2](https://calhacks.notion.site/Homework-2-3238573481db80d9a380cf2c6c15e88d?source=copy_link) |
 | 3    | Closures, Dataflow, & Lists [Slides](https://drive.google.com/file/d/1YBKe8k-Ke4H4BKRFGkx7aiGX0PS5NDWL/view?usp=sharing) [Recording](https://youtu.be/7ZO4l_i5kZU) | [Homework 3](https://calhacks.notion.site/Homework-3-5c88573481db82f0a40801d584f5550e?source=copy_link) [Example](https://github.com/cubstart/-FA-25-Cubstart-Discussion-List_Example) |
 | 4    | Observation & MVVM [Slides](https://drive.google.com/file/d/1j1U3a7JTvufHC8dizPEQo9uiomowlRTL/view?usp=sharing) [Recording](https://youtu.be/5u5jSX-0_Gc) | [Mid-Semester Project](https://calhacks.notion.site/Midsemester-Project-Class-Planner-7958573481db83c6af1581089cf31d6c?source=copy_link) |
-| 5    | Navigation & Presentation | Mid-Semester Project |
-| 6    | Animations | Mid-Semester Project |
+| 5    | Navigation & Presentation [Slides](https://drive.google.com/file/d/1-RS9IL-i_GlkM3vcQCO_2BaSlrVKKl68/view?usp=sharing) [Recording](https://youtu.be/WsYK83ni1AU?si=7xnBLOxvS8xpGBxJ) | Mid-Semester Project |
+| 6    | Animations [Slides](https://drive.google.com/file/d/1A6IkNNlLVWvVVGfcgjIPaBCUyc22EsJe/view?usp=sharing) | Mid-Semester Project |
 | 7    | Swift Concurrency & API Integration | Homework 4 |
-| 8    | SwiftData | Homework 6 |
+| 8    | SwiftData | Homework 5 |
 | 9    | Firebase | Final Project |
 | 10   | 🔮 | Final Project |
 | 11   | 🔮 | Final Project |
