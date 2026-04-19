@@ -15,7 +15,7 @@ Join [Gradescope](https://www.gradescope.com) with code **RVY8G4**.\
 | 4    | Observation & MVVM [Slides](https://drive.google.com/file/d/1j1U3a7JTvufHC8dizPEQo9uiomowlRTL/view?usp=sharing) [Recording](https://youtu.be/5u5jSX-0_Gc) | [Mid-Semester Project](https://calhacks.notion.site/Midsemester-Project-Class-Planner-7958573481db83c6af1581089cf31d6c?source=copy_link) |
 | 5    | Navigation & Presentation [Slides](https://drive.google.com/file/d/1-RS9IL-i_GlkM3vcQCO_2BaSlrVKKl68/view?usp=sharing) [Recording](https://youtu.be/WsYK83ni1AU?si=7xnBLOxvS8xpGBxJ) | Mid-Semester Project |
 | 6    | Animations [Slides](https://drive.google.com/file/d/1A6IkNNlLVWvVVGfcgjIPaBCUyc22EsJe/view?usp=sharing) [Recording](https://youtu.be/mM8o-Us-f-4?si=FuKgklOJafwjZ3Cj) | Mid-Semester Project |
-| 7    | Swift Concurrency & API Integration | Final Project |
+| 7    | Swift Concurrency & API Integration [Slides](https://drive.google.com/file/d/1pgluFGluyWIsXbWd8gAdUomDyF5nJWWE/view?usp=sharing) [Recording](https://youtu.be/Rpa2JP78QEo?si=7fWjmsRCT0re62uF) | Final Project |
 | 8    | SwiftData | Final Project |
 | 9    | Firebase | Final Project |
 | 10   | 🔮 | Final Project |
