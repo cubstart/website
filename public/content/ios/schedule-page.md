@@ -18,4 +18,4 @@ Join [Gradescope](https://www.gradescope.com) with code **RVY8G4**.\
 | 7    | Swift Concurrency & API Integration [Slides](https://drive.google.com/file/d/1pgluFGluyWIsXbWd8gAdUomDyF5nJWWE/view?usp=sharing) [Recording](https://youtu.be/Rpa2JP78QEo?si=7fWjmsRCT0re62uF) |  |
 | 8    | SwiftData [Slides](https://drive.google.com/file/d/1m2E_q5a_W8TtR6dNW1YqsjxlQ9HkdFbB/view?usp=sharing) [Recording](https://youtu.be/pSzhwil7_ZA?si=bdAGx9W0W8iBPnF5) |  |
 | 9    | Firebase [Slides](https://drive.google.com/file/d/1Y2Sy1PG8LdeEa8NIIGsqatUsSYU2O7RN/view?usp=sharing) [Recording](https://youtu.be/c5p2FVVs_jk?si=Gkt875n36SW65Wn9) |  |
-| 10   | Cubstart Hack Night | [Sign Up](https://tinyurl.com/sp26-cubstart-hacknight) |
+| 10   | Cubstart Hack Night | [Sign Up Link](https://tinyurl.com/sp26-cubstart-hacknight) |
