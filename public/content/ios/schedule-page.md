@@ -15,7 +15,7 @@ Join [Gradescope](https://www.gradescope.com) with code **RVY8G4**.\
 | 4    | Observation & MVVM [Slides](https://drive.google.com/file/d/1j1U3a7JTvufHC8dizPEQo9uiomowlRTL/view?usp=sharing) [Recording](https://youtu.be/5u5jSX-0_Gc) | [Mid-Semester Project](https://calhacks.notion.site/Midsemester-Project-Class-Planner-7958573481db83c6af1581089cf31d6c?source=copy_link) |
 | 5    | Navigation & Presentation [Slides](https://drive.google.com/file/d/1-RS9IL-i_GlkM3vcQCO_2BaSlrVKKl68/view?usp=sharing) [Recording](https://youtu.be/WsYK83ni1AU?si=7xnBLOxvS8xpGBxJ) | Mid-Semester Project |
 | 6    | Animations [Slides](https://drive.google.com/file/d/1A6IkNNlLVWvVVGfcgjIPaBCUyc22EsJe/view?usp=sharing) [Recording](https://youtu.be/mM8o-Us-f-4?si=FuKgklOJafwjZ3Cj) | Mid-Semester Project |
-| 7    | Swift Concurrency & API Integration [Slides](https://drive.google.com/file/d/1pgluFGluyWIsXbWd8gAdUomDyF5nJWWE/view?usp=sharing) [Recording](https://youtu.be/Rpa2JP78QEo?si=7fWjmsRCT0re62uF) | Cubstart Hack Night |
+| 7    | Swift Concurrency & API Integration [Slides](https://drive.google.com/file/d/1pgluFGluyWIsXbWd8gAdUomDyF5nJWWE/view?usp=sharing) [Recording](https://youtu.be/Rpa2JP78QEo?si=7fWjmsRCT0re62uF) |  |
 | 8    | SwiftData [Slides](https://drive.google.com/file/d/1m2E_q5a_W8TtR6dNW1YqsjxlQ9HkdFbB/view?usp=sharing) [Recording](https://youtu.be/pSzhwil7_ZA?si=bdAGx9W0W8iBPnF5) |  |
 | 9    | Firebase [Slides](https://drive.google.com/file/d/1Y2Sy1PG8LdeEa8NIIGsqatUsSYU2O7RN/view?usp=sharing) [Recording](https://youtu.be/c5p2FVVs_jk?si=Gkt875n36SW65Wn9) |  |
 | 10   | Cubstart Hack Night | [Sign Up](https://tinyurl.com/sp26-cubstart-hacknight) |
