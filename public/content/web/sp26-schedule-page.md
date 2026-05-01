@@ -29,10 +29,9 @@ Above all, bring positivity and curiosity to class! The more you give to the cla
 | April 8 | 6    | No Lecture | No Homework |
 | April 15 | 7    | APIs, Promises, & Fetch() [Slides](https://docs.google.com/presentation/d/1_H2uiaoFbWg_zSA6KiyceukdY5AI4N6dIeKsglMeUIU/edit?usp=sharing) | [HW 5: OpenWeatherMap API](#/hw/web/hw5) |
 | April 22 | 8    | Express & NodeJS [Slides](https://docs.google.com/presentation/d/1_H2uiaoFbWg_zSA6KiyceukdY5AI4N6dIeKsglMeUIU/edit?usp=sharing) | [HW 6: Quizlet-ish Part 1](#/hw/web/hw6) |
-| April 29 | 9    | Databases | HW 7: Quizlet-ish Part 2 |
-| May 6  | 10   | SQL | Team Formation Google Form |
-| May 13 | 11   | Intro to React | Prep for Final Project |
-| **DATE TBD** | 12 | 🎉 Demo Day! **TBD** |  |
+| April 29 | 9    | Databases | [HW 7: Quizlet-ish Part 2](#/hw/web/hw7) |
+| May 1 | 9| 🎉 CUBSTART HACK NIGHT! | NO HOMEWORK |
+
 
 ## Policies
 
