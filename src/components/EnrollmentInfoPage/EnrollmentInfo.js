@@ -268,11 +268,11 @@ function EnrollmentInfoPage() {
             <div style={styles.stepCard}>
               <p style={styles.codeLine}>
                 <span style={styles.stepRowLabel}>iOS</span>
-                <ExternalLink href="https://edstem.org/">Coming Soon!</ExternalLink>
+                <ExternalLink href="https://edstem.org/us/join/Wsfes4">EdStem</ExternalLink>
               </p>
               <p style={styles.codeLine}>
                 <span style={styles.stepRowLabel}>Web</span>
-                <ExternalLink href="https://edstem.org/">Coming Soon!</ExternalLink>
+                <ExternalLink href="https://edstem.org/us/join/GhtVyd">EdStem</ExternalLink>
               </p>
             </div>
           </div>
