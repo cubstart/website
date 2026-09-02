@@ -1,3 +1,5 @@
+## **NEW SCHEDULE COMING SOON**
+
 **Spring 2026:** 
 
 **Lecture Videos Released**: Wednesdays on [Youtube](https://www.youtube.com/@cubstartbyhackathonsatberkeley).

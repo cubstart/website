@@ -49,13 +49,19 @@ const styles = {
     background: 'rgba(62, 158, 195, 0.08)',
     border: '1px solid rgba(62, 158, 195, 0.25)',
     borderRadius: '10px',
+    boxSizing: 'border-box',
+    maxWidth: '100%',
     padding: '10px 12px',
+    width: '260px',
   },
   stepCard: {
     background: 'rgba(62, 158, 195, 0.08)',
     border: '1px solid rgba(62, 158, 195, 0.25)',
     borderRadius: '10px',
+    boxSizing: 'border-box',
+    maxWidth: '100%',
     padding: '10px 12px',
+    width: '260px',
   },
   codeLine: {
     alignItems: 'center',
@@ -171,6 +177,50 @@ function EnrollmentInfoPage() {
           </h3>
           <div style={styles.stepTextBlock}>
             <p style={styles.stepLead}>
+              Search for your desired track's class number in the{' '}
+              <ExternalLink href="https://calcentral.berkeley.edu">CalCentral Enrollment Center</ExternalLink>:
+            </p>
+            <div style={styles.codeList}>
+              <p style={styles.codeLine}>
+                <span style={styles.codeLabel}>iOS</span>
+                <span style={styles.codeChip}>
+                  <button
+                    type="button"
+                    aria-label="Copy iOS class number"
+                    style={styles.copyButton}
+                    onClick={() => copyCode('30272')}
+                  >
+                    📎
+                  </button>
+                  <code style={styles.codeValue}>30272</code>
+                </span>
+                {copiedCode === '30272' && <span style={styles.copiedText}>Copied</span>}
+              </p>
+              <p style={styles.codeLine}>
+                <span style={styles.codeLabel}>Web</span>
+                <span style={styles.codeChip}>
+                  <button
+                    type="button"
+                    aria-label="Copy Web class number"
+                    style={styles.copyButton}
+                    onClick={() => copyCode('30273')}
+                  >
+                    📎
+                  </button>
+                  <code style={styles.codeValue}>30273</code>
+                </span>
+                {copiedCode === '30273' && <span style={styles.copiedText}>Copied</span>}
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div style={styles.stepRowTop}>
+          <h3 className="enrollment_header" style={styles.stepTitle}>
+            Step 2:
+          </h3>
+          <div style={styles.stepTextBlock}>
+            <p style={styles.stepLead}>
               Join <ExternalLink href="https://www.gradescope.com">Gradescope</ExternalLink>{' '}
               using your platform code:
             </p>
@@ -182,13 +232,13 @@ function EnrollmentInfoPage() {
                     type="button"
                     aria-label="Copy iOS code"
                     style={styles.copyButton}
-                    onClick={() => copyCode('RVY8G4')}
+                    onClick={() => copyCode('Coming Soon!')}
                   >
                     📎
                   </button>
-                  <code style={styles.codeValue}>RVY8G4</code>
+                  <code style={styles.codeValue}>Coming Soon!</code>
                 </span>
-                {copiedCode === 'RVY8G4' && <span style={styles.copiedText}>Copied</span>}
+                {copiedCode === 'Coming Soon!' && <span style={styles.copiedText}>Copied</span>}
               </p>
               <p style={styles.codeLine}>
                 <span style={styles.codeLabel}>Web</span>
@@ -197,13 +247,13 @@ function EnrollmentInfoPage() {
                     type="button"
                     aria-label="Copy Web code"
                     style={styles.copyButton}
-                    onClick={() => copyCode('WNK77J')}
+                    onClick={() => copyCode('K8YBE5')}
                   >
                     📎
                   </button>
-                  <code style={styles.codeValue}>WNK77J</code>
+                  <code style={styles.codeValue}>K8YBE5</code>
                 </span>
-                {copiedCode === 'WNK77J' && <span style={styles.copiedText}>Copied</span>}
+                {copiedCode === 'K8YBE5' && <span style={styles.copiedText}>Copied</span>}
               </p>
             </div>
           </div>
@@ -211,45 +261,21 @@ function EnrollmentInfoPage() {
 
         <div style={styles.stepRowTop}>
           <h3 className="enrollment_header" style={styles.stepTitle}>
-            Step 2a:
+            Step 3:
           </h3>
           <div style={styles.stepTextBlock}>
-            <p style={styles.stepLead}>Berkeley Students 🐻: Join EdStem by platform.</p>
+            <p style={styles.stepLead}>Join Our EdStem.</p>
             <div style={styles.stepCard}>
               <p style={styles.codeLine}>
                 <span style={styles.stepRowLabel}>iOS</span>
-                <ExternalLink href="https://edstem.org/us/join/frtQZn">EdStem</ExternalLink>
+                <ExternalLink href="https://edstem.org/">Coming Soon!</ExternalLink>
               </p>
               <p style={styles.codeLine}>
                 <span style={styles.stepRowLabel}>Web</span>
-                <ExternalLink href="https://edstem.org/us/join/sSTJwY">EdStem</ExternalLink>
+                <ExternalLink href="https://edstem.org/">Coming Soon!</ExternalLink>
               </p>
             </div>
           </div>
-        </div>
-
-        <div style={styles.stepRow}>
-          <h3 className="enrollment_header" style={styles.stepTitle}>
-            Step 2b:
-          </h3>
-          <p style={styles.stepText}>
-            non-Berkeley students: Fill out{' '}
-            <ExternalLink href="https://forms.gle/fQV6pXzRH3Kkkxsm9">this form</ExternalLink>{' '}
-            to be added manually to the EdStem.
-          </p>
-        </div>
-
-        <div style={styles.stepRow}>
-          <h3 className="enrollment_header" style={styles.stepTitle}>
-            Step 3:
-          </h3>
-          <p style={styles.stepText}>
-            Bookmark our{' '}
-            <ExternalLink href="https://www.youtube.com/@cubstartbyhackathonsatberkeley">
-              Youtube Channel
-            </ExternalLink>{' '}
-            to keep up with lectures.
-          </p>
         </div>
 
         <p>

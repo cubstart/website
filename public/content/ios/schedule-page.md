@@ -1,3 +1,7 @@
+## **NEW SCHEDULE COMING SOON**
+
+**Spring 2026:**
+
 **Live lectures will reoccur every Friday, 5-6 p.m. PST, starting 3/6/2026.**\
 **Live Lecture Zoom Link:** https://berkeley.zoom.us/j/97277396495. \
 If you are unable to attend, we will post our recorded lectures on our[Youtube Channel](https://www.youtube.com/@cubstartbyhackathonsatberkeley). 

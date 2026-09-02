@@ -1,12 +1,12 @@
 **Course Designation:** CS 198-075 (iOS Track), CS 198-750 (Web Track)
 
-**iOS Facilitators:** Justin Wong, Abby Li
+**iOS Facilitators:** Abby Li
 
-**Web Facilitators:** Mei Cibulka, Jessica Chiu, Mauricio Yeverino, Ethan Tam
+**Web Facilitators:** Jessica Chiu, Mauricio Yeverino
 
 **EECS Dept. Sponsor:** Dan Garcia
 
-**Course Catalog:** Spring 2026
+**Course Catalog:** Fall 2026
 
 **Contact:** team@cubstart.com
 

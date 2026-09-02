@@ -12,7 +12,7 @@ function HomePage(props) {
     return (
     <div>
         <div className="banner" style={{"paddingTop":"0px"}}>
-            <p style={{}}>Enroll in Cubstart SP26 NOW!&nbsp;<a href="/#/enrollment-info" style={{"color":"#fff", "fontWeight":"900", "borderBottom":"1px solid #fff"}}>How do I Enroll?</a></p>
+            <p style={{}}>Enroll in Cubstart Fall 26 NOW!&nbsp;<a href="/#/enrollment-info" style={{"color":"#fff", "fontWeight":"900", "borderBottom":"1px solid #fff"}}>How do I Enroll?</a></p>
         </div>
     <div className="hero-wrapper">
         <div className="header">
