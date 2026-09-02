@@ -167,7 +167,7 @@ function EnrollmentInfoPage() {
           <h1 style={styles.heading}>How do I Enroll?</h1>
         </div>
 
-        <p style={styles.intro}>Enroll in Cubstart through these 3 easy steps!</p>
+        <p style={styles.intro}>Enroll in Cubstart through these 4 easy steps!</p>
 
         <br />
 
@@ -275,6 +275,17 @@ function EnrollmentInfoPage() {
                 <ExternalLink href="https://edstem.org/">Coming Soon!</ExternalLink>
               </p>
             </div>
+          </div>
+        </div>
+
+        <div style={styles.stepRowTop}>
+          <h3 className="enrollment_header" style={styles.stepTitle}>
+            Step 4:
+          </h3>
+          <div style={styles.stepTextBlock}>
+            <p style={styles.stepLead}>
+              Wait for an email from us for further instructions. Class starts the week of September 14th!
+            </p>
           </div>
         </div>
 
