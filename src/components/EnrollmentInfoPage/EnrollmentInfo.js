@@ -212,6 +212,9 @@ function EnrollmentInfoPage() {
                 {copiedCode === '30273' && <span style={styles.copiedText}>Copied</span>}
               </p>
             </div>
+            <p style={{ ...styles.stepLead, marginTop: '10px' }}>
+              <strong>Note:</strong> The Friday meeting time listed for the iOS track on CalCentral will no longer be held.
+            </p>
           </div>
         </div>
 
