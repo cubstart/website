@@ -213,8 +213,7 @@ function EnrollmentInfoPage() {
               </p>
             </div>
             <p style={{ ...styles.stepLead, marginTop: '10px' }}>
-              <strong>iOS note:</strong> CalCentral can be misleading. First class is{' '}
-              <strong>Monday, September 21 at 6:30 p.m. in Physics Building 3</strong>. The Friday
+              <strong>iOS note:</strong> CalCentral can be misleading. The Friday
               11:30–12:29 p.m. slot is an <strong>optional hybrid office hour</strong>, not lecture.
             </p>
           </div>
@@ -293,8 +292,9 @@ function EnrollmentInfoPage() {
             </p>
             <p style={styles.stepLead}>
               <strong>iOS:</strong> First class is September 21 at 6:30 p.m. in Physics Building 3.
-              Join Gradescope (<strong>YGDXBX</strong>) and{' '}
-              <ExternalLink href="https://edstem.org/us/join/Wsfes4">Ed</ExternalLink> before then.
+            </p>
+            <p style={styles.stepLead}>
+              <strong>Web:</strong> First class is September 23 at 6:30 p.m. in Physics Building 3.
             </p>
           </div>
         </div>
