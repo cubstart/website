@@ -213,7 +213,9 @@ function EnrollmentInfoPage() {
               </p>
             </div>
             <p style={{ ...styles.stepLead, marginTop: '10px' }}>
-              <strong>Note:</strong> The Friday meeting time listed for the iOS track on CalCentral will no longer be held.
+              <strong>iOS note:</strong> CalCentral can be misleading. First class is{' '}
+              <strong>Monday, September 21 at 6:30 p.m. in Physics Building 3</strong>. The Friday
+              11:30–12:29 p.m. slot is an <strong>optional hybrid office hour</strong>, not lecture.
             </p>
           </div>
         </div>
@@ -235,13 +237,13 @@ function EnrollmentInfoPage() {
                     type="button"
                     aria-label="Copy iOS code"
                     style={styles.copyButton}
-                    onClick={() => copyCode('Coming Soon!')}
+                    onClick={() => copyCode('YGDXBX')}
                   >
                     📎
                   </button>
-                  <code style={styles.codeValue}>Coming Soon!</code>
+                  <code style={styles.codeValue}>YGDXBX</code>
                 </span>
-                {copiedCode === 'Coming Soon!' && <span style={styles.copiedText}>Copied</span>}
+                {copiedCode === 'YGDXBX' && <span style={styles.copiedText}>Copied</span>}
               </p>
               <p style={styles.codeLine}>
                 <span style={styles.codeLabel}>Web</span>
@@ -287,7 +289,12 @@ function EnrollmentInfoPage() {
           </h3>
           <div style={styles.stepTextBlock}>
             <p style={styles.stepLead}>
-              Wait for an email from us for further instructions. Class starts the week of September 14th!
+              Wait for an email from us for further instructions. Questions should go on Ed.
+            </p>
+            <p style={styles.stepLead}>
+              <strong>iOS:</strong> First class is September 21 at 6:30 p.m. in Physics Building 3.
+              Join Gradescope (<strong>YGDXBX</strong>) and{' '}
+              <ExternalLink href="https://edstem.org/us/join/Wsfes4">Ed</ExternalLink> before then.
             </p>
           </div>
         </div>
