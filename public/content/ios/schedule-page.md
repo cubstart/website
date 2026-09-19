@@ -17,15 +17,17 @@ Please complete both of these before September 21:
 
 ## Calendar
 
-| Week | Lecture | Homework/Project |
-| ---- | ------- | ---------------- |
-| 1 (Sep 21) | Motivation, Git, & Swift | Homework 1 |
-| 2    | More Swift & SwiftUI Fundamentals | Homework 2 |
-| 3    | Closures, Dataflow, & Lists | Homework 3 |
-| 4    | Observation & MVVM | Mid-Semester Project |
-| 5    | Navigation & Presentation | Mid-Semester Project |
-| 6    | Animations | Mid-Semester Project |
-| 7    | Swift Concurrency & API Integration |  |
-| 8    | SwiftData |  |
-| 9    | Firebase |  |
-| 10   | Cubstart Hack Night |  |
+| Week | Date | Lecture | Homework/Project |
+| ---- | ---- | ------- | ---------------- |
+| 1    | 9/21/2026  | Motivation, Git, & Swift | Homework 1 |
+| 2    | 9/28/2026  | More Swift & SwiftUI Fundamentals | Homework 2 |
+| 3    | 10/5/2026  | Closures, Dataflow, & Lists | Homework 3 |
+| 4    | 10/12/2026 | Observation & MVVM | Mid-Semester Project |
+| 5    | 10/19/2026 | Navigation & Presentation | Mid-Semester Project |
+| 6    | 10/26/2026 | Animations | Mid-Semester Project |
+| 7    | 11/2/2026  | Swift Concurrency & API Integration |  |
+| 8    | 11/9/2026  | SwiftData |  |
+| 9    | 11/16/2026 | Firebase |  |
+| 10   | 11/23/2026 | No Lecture |  |
+| 11   | 11/30/2026 | No Lecture |  |
+| 12   | 12/7/2026  | Cubstart Hack Night |  |
