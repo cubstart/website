@@ -1,6 +1,6 @@
 ## Announcements
 
-**First class: Monday, September 21 at 6:30 p.m. in Physics Building 3.**
+**We meet Mondays, 6:30–8:00 p.m. in Physics 3, starting September 21.** Each session is 45 minutes of lecture plus 45 minutes of lab.
 
 The start of the iOS DeCal is pushed back two weeks. Please ignore conflicting times on CalCentral — **Friday 11:30–12:29 p.m. is an optional hybrid office hour**, not lecture.
 
@@ -17,14 +17,14 @@ Please complete both of these before September 21:
 
 ## Calendar
 
-| Week | Date | Lecture | Homework/Project |
-| ---- | ---- | ------- | ---------------- |
-| 1    | 9/21/2026  | Motivation, Git, & Swift | Homework 1 |
-| 2    | 9/28/2026  | More Swift & SwiftUI Fundamentals | Homework 2 |
-| 3    | 10/5/2026  | Closures, Dataflow, & Lists | Homework 3 |
-| 4    | 10/12/2026 | Observation & MVVM | Mid-Semester Project |
-| 5    | 10/19/2026 | Navigation & Presentation | Mid-Semester Project |
-| 6    | 10/26/2026 | Animations | Mid-Semester Project |
+| Week | Date | Lecture | Lab |
+| ---- | ---- | ------- | --- |
+| 1    | 9/21/2026  | Motivation, Git, & Swift | Lab 1 |
+| 2    | 9/28/2026  | More Swift & SwiftUI Fundamentals | Lab 2 |
+| 3    | 10/5/2026  | Closures, Dataflow, & Lists | Lab 3 |
+| 4    | 10/12/2026 | Observation & MVVM |  |
+| 5    | 10/19/2026 | Navigation & Presentation |  |
+| 6    | 10/26/2026 | Animations |  |
 | 7    | 11/2/2026  | Swift Concurrency & API Integration |  |
 | 8    | 11/9/2026  | SwiftData |  |
 | 9    | 11/16/2026 | Firebase |  |

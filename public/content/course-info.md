@@ -1,6 +1,6 @@
 **Course Designation:** CS 198-075 (iOS Track), CS 198-750 (Web Track)
 
-**iOS Facilitators:** Abby Li
+**iOS Facilitators:** Abby Li, Angel Li, Ricardo Escalante
 
 **Web Facilitators:** Jessica Chiu, Mauricio Yeverino
 
@@ -53,10 +53,9 @@ The weekly lectures are intended to give an introduction to the contents covered
 **iOS**:
 | **Weight**  | **Assignment**                          |
 | ----------- | --------------------------------------- |
-| 25%         | Homeworks                               |
-| 30%         | Mid-Semester Project                    |
-| 10%         | Final Project Checkpoint                |
-| 35%         | Final Project (Project Specifications)  |
+| 25%         | Attendance (lab check-off)              |
+| 25%         | Labs (Gradescope submissions)           |
+| 50%         | Final Project                           |
 
 To pass, you will need >= 70%. This course is fast-paced and highly cumulative. Your success will depend on your active and consistent participation. However, we understand that emergencies and personal matters do come up.
 
@@ -66,9 +65,9 @@ To pass, you will need >= 70%. This course is fast-paced and highly cumulative. 
 The weekly homeworks are mini-projects that have a detailed, step-by-step spec for you to follow. You have **2 homework drops** in total which do not impact your grade. Any additional incomplete homeworks will result in a NP. Homeworks are weighted equally.
 
 **iOS**: 
-For assignments, there will be weekly homework assignments released after the lecture of the week and due on the next Friday. The assignments are designed to be completed asynchronously throughout the week and submitted to Gradescope for grading. 
+Each class has a lab that you start in the second half of the session. To submit, press submit on Gradescope, push your code to GitHub, and submit your updated repository with your progress by EOD the following day.
 
-We will also have a Mid-Semester Project where you will be working on an app tying up all the concepts taught so far in the past four weeks. 
+Attendance is taken by checking in with one of the three instructors at the end of lab, where you'll also get guidance on your project progress. You may have **2 unexcused absences** and still receive full credit. If you need an excused absence, just email us.
 
 If you have extenuating circumstances which may hinder your ability to finish the assignments on time. If so, please create a private Ed post describing the circumstance, and we will approve on a case-by-case basis.
 
