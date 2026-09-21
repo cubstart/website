@@ -30,4 +30,4 @@ Please complete both of these before September 21:
 | 9    | 11/16/2026 | Firebase |  |
 | 10   | 11/23/2026 | No Lecture |  |
 | 11   | 11/30/2026 | No Lecture |  |
-| 12   | 12/7/2026  | Cubstart Hack Night |  |
+| 12   | 12/7/2026  | Final Presentation |  |
