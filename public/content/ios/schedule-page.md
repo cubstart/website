@@ -6,7 +6,7 @@ The start of the iOS DeCal is pushed back two weeks. Please ignore conflicting t
 
 Recorded lectures will be posted on our [Youtube Channel](https://www.youtube.com/@cubstartbyhackathonsatberkeley).
 
-Recurring virtual office hours: **Fridays 11:00 a.m – 12:00 p.m.** on Zoom: https://berkeley.zoom.us/j/99412708294.
+Recurring virtual office hours: **Fridays 11:00 a.m – 12:00 p.m.** on Zoom: [Zoom Link](https://berkeley.zoom.us/j/99412708294).
 
 ## Before Class
 
