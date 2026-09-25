@@ -1,13 +1,6 @@
 {
   "lecturers": [
     {
-      "image": "assets/staff/abby.jpg",
-      "name": "Abby Li",
-      "title": "iOS Lecturer",
-      "description": "Hello! I’m a foruth-year EECS major. I enjoy playing badminton, building projects, and collecting niche tech — especially anything Apple 🍏. Also a huge fan of my 🌭 dogs!",
-      "social": "@drsc777"
-    },
-    {
       "image": "assets/staff/mauricio.png",
       "name": "Mauricio Yeverino",
       "title": "Web Lecturer",
@@ -18,8 +11,36 @@
       "image": "assets/staff/jessica_chiu.png",
       "name": "Jessica Chiu",
       "title": "Web Lecturer",
-      "description": "Hey everyone!! I'm a 2nd year studying Data Science and Public Health. I love thrifting and altering clothes 🪡 I also love music, especially EDM and alternative genres 🎵 Reach out if you ever need anything!",
+      "description": "Hi everyone! I'm a 2nd year studying DS and Public Health. I love thrifting and altering clothes 🪡 I also love music, especially EDM and alternative genres 🎵 Reach out if you ever need anything!",
       "social": "@jessicacchiu"
+    },
+    {
+      "image": "assets/staff/eddie.JPG",
+      "name": "Eddie Lin",
+      "title": "Web Lecturer",
+      "description": "Hello! I'm a freshman studying Data Science (and hopefully CS). I enjoy reading 📚, transcribing music 🎵, and video games 🎮. I'm looking forward to teaching you all!",
+      "social": "@eddie98795"
+    },
+    {
+      "image": "assets/staff/abby.jpg",
+      "name": "Abby Li",
+      "title": "iOS Lecturer",
+      "description": "Hello! I’m a fourth-year EECS major. I enjoy playing badminton, building projects, and collecting niche tech — especially anything Apple 🍏. Also a huge fan of my 🌭 dogs!",
+      "social": "@drsc777"
+    },
+    {
+      "image": "assets/staff/angel.jpeg",
+      "name": "Angel Li",
+      "title": "iOS Lecturer",
+      "description": "Hi! I’m a 1st year intending eecs. Like cooking 🍳, rollerblading 🛼, and hiking 🥾. Excited to teach everyone!",
+      "social": "@anglellli"
+    },
+    {
+      "image": "assets/staff/ricardo.JPEG",
+      "name": "Ricardo Escalante",
+      "title": "iOS Lecturer",
+      "description": "Hi! I’m a 3rd year EECS major from LA. I’m a big foodie 🍔, love playing video games 🎮, and am always open to new opportunities. Feel free to reach out!",
+      "social": "@drpenguinooo"
     }
   ],
   "archives": [
