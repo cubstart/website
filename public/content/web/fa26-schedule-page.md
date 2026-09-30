@@ -17,7 +17,7 @@ Please complete both of these before September 23:
 
 |Week | Date | Lecture | Homework/Project |
 |-----|------|---------|-------------------|
-| 1 | 9/23 | Introduction to HTML and the Web | HW 1: HTML Basics |
+| 1 | 9/23 | Introduction to HTML and the Web [Slides](https://docs.google.com/presentation/d/1d9J8tTOqNprz5jEkScXLC4uI11TDiYfflx2T05YF8Dc/edit?usp=sharing) | [HW 1: HTML Basics](#/hw/web/hw1) |
 | 2 | 9/30 | CSS Basics and Browser Developer Tools | HW 2: Personal Portfolio |
 | 3 | 10/7 | Javascript Basics | HW 3: JavaScript Playground |
 | 4 | 10/14 | Intro to APIs | HW 4: API Quiz |
