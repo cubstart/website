@@ -25,9 +25,9 @@ Please complete both of these before September 21:
 | Week | Date | Lecture | Lab/Project |
 | ---- | ---- | ------- | ----------- |
 | 1    | 9/21/2026  | Motivation, Git, & Swift [Slides](https://docs.google.com/presentation/d/1_eCbi2ww4FLsaxLRIgA6SsCSyhzDovZUPu4kUOPwYN0/edit?usp=sharing) | [Lab 1](https://calhacks.notion.site/Lab1-3e28573481db8007bb0dffc757e68777?source=copy_link) |
-| 2    | 9/28/2026  | More Swift | Lab 1 (extended) |
-| 3    | 10/5/2026  | SwiftUI Fundamentals, Closures, Dataflow | Lab 2 |
-| 4    | 10/12/2026 | Lists, Observation & MVVM | Lab 3 & Final Project Proposal |
+| 2    | 9/28/2026  | More Swift [Video](https://www.youtube.com/watch?v=cU3e0B5OvjI&list=PLaWvS1F99ums&index=2&pp=iAQB)| Lab 1 (extended) |
+| 3    | 10/5/2026  | SwiftUI Fundamentals [Slides](https://docs.google.com/presentation/d/15vyZ5eIj1zosF1Mv3sRW4oZG8A-wmZdh/edit?slide=id.h798808bf45dfdc78_0_781#slide=id.h798808bf45dfdc78_0_781) [Video](https://youtu.be/kBm484z-r8k) | [Lab 2](https://calhacks.notion.site/Lab2-3f08573481db8010950bfe6240ac0bc2) |
+| 4    | 10/12/2026 | Closures, Dataflow, Lists, Observation & MVVM | Lab 3 & Final Project Proposal |
 | 5    | 10/19/2026 | Navigation & Presentation | Final Project Checkpoint 1 |
 | 6    | 10/26/2026 | Animations | Final Project Checkpoint 2 |
 | 7    | 11/2/2026  | Swift Concurrency & API Integration | Final Project Checkpoint 3 |
