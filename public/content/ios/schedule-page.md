@@ -25,14 +25,13 @@ Please complete both of these before September 21:
 | Week | Date | Lecture | Lab/Project |
 | ---- | ---- | ------- | ----------- |
 | 1    | 9/21/2026  | Motivation, Git, & Swift [Slides](https://docs.google.com/presentation/d/1_eCbi2ww4FLsaxLRIgA6SsCSyhzDovZUPu4kUOPwYN0/edit?usp=sharing) | [Lab 1](https://calhacks.notion.site/Lab1-3e28573481db8007bb0dffc757e68777?source=copy_link) |
-| 2    | 9/28/2026  | More Swift [Video](https://www.youtube.com/watch?v=cU3e0B5OvjI&list=PLaWvS1F99ums&index=2&pp=iAQB)| Lab 1 (extended) |
-| 3    | 10/5/2026  | SwiftUI Fundamentals [Slides](https://docs.google.com/presentation/d/15vyZ5eIj1zosF1Mv3sRW4oZG8A-wmZdh/edit?slide=id.h798808bf45dfdc78_0_781#slide=id.h798808bf45dfdc78_0_781) [Video](https://youtu.be/kBm484z-r8k) | [Lab 2](https://calhacks.notion.site/Lab2-3f08573481db8010950bfe6240ac0bc2) |
-| 4    | 10/12/2026 | Closures, Dataflow, Lists, Observation & MVVM | Lab 3 & Final Project Proposal |
-| 5    | 10/19/2026 | Navigation & Presentation | Final Project Checkpoint 1 |
-| 6    | 10/26/2026 | Animations | Final Project Checkpoint 2 |
-| 7    | 11/2/2026  | Swift Concurrency & API Integration | Final Project Checkpoint 3 |
-| 8    | 11/9/2026  | SwiftData | Final Project Checkpoint 4 |
-| 9    | 11/16/2026 | Firebase | Final Project Checkpoint 5 |
-| 10   | 11/23/2026 | No Lecture |  |
-| 11   | 11/30/2026 | No Lecture |  |
-| 12   | 12/7/2026  | Final Presentation |  |
+| 2    | 9/28/2026  | More Swift [Slides](https://docs.google.com/presentation/d/1qKhbyvOKyf4FVI877dj4bphO4BKLmG_z/edit?usp=sharing&ouid=105494765778599787195&rtpof=true&sd=true)[Video](https://www.youtube.com/watch?v=cU3e0B5OvjI&list=PLaWvS1F99ums&index=2&pp=iAQB)| Lab 1 (extended) |
+| 3    | 10/5/2026  | SwiftUI [Slides](https://docs.google.com/presentation/d/1CvaVo9mvH1YzrOmUGOWcU_D_1V9XmwWp/edit?usp=sharing&ouid=105494765778599787195&rtpof=true&sd=true)[Video](https://youtu.be/kBm484z-r8k) | [Lab 2](https://calhacks.notion.site/Lab2-3f08573481db8010950bfe6240ac0bc2)| [Lab 2](https://calhacks.notion.site/Lab-2-3f08573481db8010950bfe6240ac0bc2?source=copy_link) |
+| 4    | 10/12/2026 | Closures, Dataflow, & Lists | Lab 3 & Final Project Proposal |
+| 5    | 10/19/2026 | Observation & MVVM | Final Project Checkpoint 1 |
+| 6    | 10/26/2026 | Navigation & Presentation | Final Project Checkpoint 2 |
+| 7    | 11/2/2026  | Animations | Final Project Checkpoint 3 |
+| 8    | 11/9/2026  | Swift Concurrency & API Integration | Final Project Checkpoint 4 |
+| 9    | 11/16/2026 | SwiftData | Final Project Checkpoint 5 |
+| 10   | 11/23/2026 | Firebase | Final Project Checkpoint 6 |
+| 11   | 11/30/2026 | Demo Day!!! |  |
