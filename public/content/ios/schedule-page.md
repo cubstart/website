@@ -28,10 +28,10 @@ Please complete both of these before September 21:
 | 2    | 9/28/2026  | More Swift [Slides](https://docs.google.com/presentation/d/1qKhbyvOKyf4FVI877dj4bphO4BKLmG_z/edit?usp=sharing&ouid=105494765778599787195&rtpof=true&sd=true)[Video](https://www.youtube.com/watch?v=cU3e0B5OvjI&list=PLaWvS1F99ums&index=2&pp=iAQB)| Lab 1 (extended) |
 | 3    | 10/5/2026  | SwiftUI [Slides](https://docs.google.com/presentation/d/1CvaVo9mvH1YzrOmUGOWcU_D_1V9XmwWp/edit?usp=sharing&ouid=105494765778599787195&rtpof=true&sd=true)[Video](https://youtu.be/kBm484z-r8k) | [Lab 2](https://calhacks.notion.site/Lab2-3f08573481db8010950bfe6240ac0bc2)| [Lab 2](https://calhacks.notion.site/Lab-2-3f08573481db8010950bfe6240ac0bc2?source=copy_link) |
 | 4    | 10/12/2026 | Closures, Dataflow, & Lists [Slides](https://docs.google.com/presentation/d/15vyZ5eIj1zosF1Mv3sRW4oZG8A-wmZdh/edit?usp=sharing&ouid=105494765778599787195&rtpof=true&sd=true)| [Lab 3](https://calhacks.notion.site/Lab3-3f08573481db806ea631d2af9bfe2382?source=copy_link) |
-| 5    | 10/19/2026 | Observation & MVVM | Final Project Checkpoint 1 |
-| 6    | 10/26/2026 | Navigation & Presentation | Final Project Checkpoint 2 |
-| 7    | 11/2/2026  | Animations | Final Project Checkpoint 3 |
-| 8    | 11/9/2026  | Swift Concurrency & API Integration | Final Project Checkpoint 4 |
-| 9    | 11/16/2026 | SwiftData | Final Project Checkpoint 5 |
-| 10   | 11/23/2026 | Firebase | Final Project Checkpoint 6 |
+| 5    | 10/19/2026 | Observation & MVVM [Slides](https://docs.google.com/presentation/d/1c1lMablrESUnCgDrCqOfvDKGdaWW_6SS/edit?usp=sharing&ouid=105494765778599787195&rtpof=true&sd=true) | [Final Project](https://calhacks.notion.site/FA26-Cubstart-iOS-Final-Project-Spec-3ff8573481db808b9fe9cd981c2d611e) |
+| 6    | 10/26/2026 | Navigation & Presentation | Final Project Checkpoint 1 |
+| 7    | 11/2/2026  | Animations | Final Project Checkpoint 2 |
+| 8    | 11/9/2026  | Swift Concurrency & API Integration | Final Project Checkpoint 3 |
+| 9    | 11/16/2026 | SwiftData | Final Project Checkpoint 4 |
+| 10   | 11/23/2026 | Firebase | Final Project Checkpoint 5 |
 | 11   | 11/30/2026 | Demo Day!!! |  |
