@@ -21,7 +21,7 @@ Please complete both of these before September 23:
 | 2 | 9/30 | CSS Basics and Browser Developer Tools [Slides](https://docs.google.com/presentation/d/1J34SzMyKQL6n4eM17x7GzqkqpA6hx1LcH4WBzrykGTs/edit?usp=sharing) | [HW 2: Personal Portfolio](#/hw/web/hw2) |
 | 3 | 10/7 | Javascript Basics [Slides](https://docs.google.com/presentation/d/1KDgEMw5lPOa_x-KKk9pvb3XylOwQg6PT1JeXSvpnoyg/edit?usp=sharing) | [HW 3: JavaScript Playground](#/hw/web/hw3) |
 | 4 | 10/14 | Intro to APIs [Slides](https://docs.google.com/presentation/d/16mceywNh0QUq1MXwKam9I7OM8mYwHzKxMrCVL-eM7W4/edit?usp=sharing) | HW 4: API Quiz |
-| 5 | 10/21 | APIs, Promises, & Fetch [Slides](https://docs.google.com/presentation/d/1uGENytgx0g4R2kHr8zK3HAmCiaROyRxOVP2L8x_rZz4/edit?usp=sharing) | HW 5: OpenWeatherMap API |
+| 5 | 10/21 | APIs, Promises, & Fetch [Slides](https://docs.google.com/presentation/d/1uGENytgx0g4R2kHr8zK3HAmCiaROyRxOVP2L8x_rZz4/edit?usp=sharing) | [HW 5: OpenWeatherMap API](#/hw/web/hw5) |
 | 6 | 10/28 | Express & NodeJS | HW 6: Quizlet-ish Part 1 |
 | 7 | 11/4 | MongoDB & Express | HW 7: Quizlet-ish Part 2 |
 | 8 | 11/11 | No lecture (Veterans Day) | Final Project Checkpoint |
