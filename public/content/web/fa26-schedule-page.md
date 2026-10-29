@@ -22,8 +22,8 @@ Please complete both of these before September 23:
 | 3 | 10/7 | Javascript Basics [Slides](https://docs.google.com/presentation/d/1KDgEMw5lPOa_x-KKk9pvb3XylOwQg6PT1JeXSvpnoyg/edit?usp=sharing) | [HW 3: JavaScript Playground](#/hw/web/hw3) |
 | 4 | 10/14 | Intro to APIs [Slides](https://docs.google.com/presentation/d/16mceywNh0QUq1MXwKam9I7OM8mYwHzKxMrCVL-eM7W4/edit?usp=sharing) | HW 4: API Quiz |
 | 5 | 10/21 | APIs, Promises, & Fetch [Slides](https://docs.google.com/presentation/d/1uGENytgx0g4R2kHr8zK3HAmCiaROyRxOVP2L8x_rZz4/edit?usp=sharing) | [HW 5: OpenWeatherMap API](#/hw/web/hw5) |
-| 6 | 10/28 | Express & NodeJS | HW 6: Quizlet-ish Part 1 |
-| 7 | 11/4 | MongoDB & Express | HW 7: Quizlet-ish Part 2 |
+| 6 | 10/28 | Express & NodeJS [Slides](https://docs.google.com/presentation/d/1s67AED-CUtNStPeP2c91acnfN4krFod00CrmWtXCTmY/edit?usp=sharing) | No homework |
+| 7 | 11/4 | MongoDB & Express | TBD |
 | 8 | 11/11 | No lecture (Veterans Day) | Final Project Checkpoint |
 | 9 | 11/18 | React | Optional HW 9: Social Media Website |
 | 10 | 11/25 | No lecture (Thanksgiving) | |
