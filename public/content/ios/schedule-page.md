@@ -31,7 +31,7 @@ Please complete both of these before September 21:
 | 5    | 10/19/2026 | Observation & MVVM [Slides](https://docs.google.com/presentation/d/1c1lMablrESUnCgDrCqOfvDKGdaWW_6SS/edit?usp=sharing&ouid=105494765778599787195&rtpof=true&sd=true) | [Final Project](https://calhacks.notion.site/FA26-Cubstart-iOS-Final-Project-Spec-3ff8573481db808b9fe9cd981c2d611e) |
 | 6    | 10/26/2026 | Navigation & Presentation [Slides](https://docs.google.com/presentation/d/1IRxQEntsYynTRW5k-ppZi0Jqfo_TodR7/edit?slide=id.p1#slide=id.p1) | Final Project Checkpoint 1 |
 | 7    | 11/2/2026  | Animations [Slides](https://docs.google.com/presentation/d/1BdNJAj7CBcf979vHQeXg9WRYoT8oSLQ4/edit?usp=sharing&ouid=105494765778599787195&rtpof=true&sd=true) | Final Project Checkpoint 2 |
-| 8    | 11/9/2026  | Swift Concurrency & API Integration | Final Project Checkpoint 3 |
-| 9    | 11/16/2026 | SwiftData | Final Project Checkpoint 4 |
+| 8    | 11/9/2026  | Swift Concurrency & API Integration [Slides](https://docs.google.com/presentation/d/1gic6GLT9kp2pBFIAiw2_lqFpLQ_YWYRj/edit?usp=sharing&ouid=100204521580535217783&rtpof=true&sd=true) | Final Project Checkpoint 3 |
+| 9    | 11/16/2026 | SwiftData [Slides](https://docs.google.com/presentation/d/16lUHZaugFKklpsEU7IOFtkAHMAMP8Jel/edit?usp=sharing&ouid=100204521580535217783&rtpof=true&sd=true) | Final Project Checkpoint 4 |
 | 10   | 11/23/2026 | Firebase | Final Project Checkpoint 5 |
 | 11   | 11/30/2026 | Demo Day!!! |  |
