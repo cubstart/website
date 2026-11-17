@@ -24,10 +24,10 @@ Please complete both of these before September 23:
 | 5 | 10/21 | APIs, Promises, & Fetch | HW 5: OpenWeatherMap API |
 | 6 | 10/28 | Express & NodeJS | HW 6: Quizlet-ish Part 1 |
 | 7 | 11/4 | MongoDB & Express | HW 7: Quizlet-ish Part 2 |
-| 8 | 11/11 | No lecture (Veterans Day) | Final Project Checkpoint |
-| 9 | 11/18 | React | Optional HW 9: Social Media Website |
+| 8 | 11/11 | No lecture (Veterans Day) | |
+| 9 | 11/18 | React | [Final Project](#/hw/web/spec-fa26) |
 | 10 | 11/25 | No lecture (Thanksgiving) | |
-| 11 | 12/2 | No lecture | Final Project |
+| 11 | 12/2 | No lecture | |
 | 12 | 12/9 | Demo Day | |
 
 ## Policies
