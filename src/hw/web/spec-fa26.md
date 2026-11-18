@@ -51,7 +51,7 @@ Prizes will be provided 😋
 <br></br>
 ## Tips + Advice
 - Get started early.
-- Attend Project Office Hours (check the EdStem for dates/times). 
+- Ask questions on Ed
 - Collaborate with your group together in person.
 - Reference the materials we have provided you (slides, homeworks, recordings, etc).
 - Use Postman as a tool to test API endpoints.
