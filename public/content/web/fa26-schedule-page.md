@@ -25,7 +25,7 @@ Please complete both of these before September 23:
 | 6 | 10/28 | Express & NodeJS [Slides](https://docs.google.com/presentation/d/1s67AED-CUtNStPeP2c91acnfN4krFod00CrmWtXCTmY/edit?usp=sharing) | No homework |
 | 7 | 11/4 | MongoDB & Express [Slides](https://docs.google.com/presentation/d/1GWzUXUmRR_dnWh29UTz1EIo_u2hjoeeewgzg5VRhqPk/edit?usp=sharing) | HW 6: Backend Quiz |
 | 8 | 11/11 | No lecture (Veterans Day) | |
-| 9 | 11/18 | React | [Final Project](#/hw/web/spec-fa26) |
+| 9 | 11/18 | React [Slides](https://docs.google.com/presentation/d/1g79c6YeI6ePmeIBbKv-015OKj8vI1-bEQIGQIhk59CQ/edit?usp=sharing) | [Final Project](#/hw/web/spec-fa26) |
 | 10 | 11/25 | No lecture (Thanksgiving) | |
 | 11 | 12/2 | No lecture | |
 | 12 | 12/9 | Demo Day | |

@@ -35,9 +35,11 @@ If your idea is inappropriate, we will email you and ask you to resubmit the for
 ## Part 2: Final Project Development + Presentation
 <b>Deadline:</b> Demo Day! (details coming soon), during Dead Week, 45 points
 
+No online submission, you must present at Demo Day. If you have a time conflict, contact us.
+
 On Demo Day, you will present your project to the class! Students will be split into cohorts and you will get the chance to view and share projects! **Prepare a 1.5 minute demo + presentation.** Please focus your demo and de-emphasize any slide deck or business pitch (although these are allowed). Walk us through a demo of your project, talk about how you created it, what technologies you used, what roadblocks you came across and how you solved them, what you could improve upon with more time, other functionalities that would be cool to implement, etc.
 
-Prizes will be provided 😋
+Prizes and food will be provided 😋
 
 <br></br>
 ## Grading Rubric
